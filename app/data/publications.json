@@ -1,0 +1,1584 @@
+[
+  {
+    "type": "Journal",
+    "title": "Network fission ensembles for low-cost self-ensembles",
+    "author": "H. Lee, J.-S. Lee",
+    "year": "2025",
+    "journal": "Pattern Recognition Letters",
+    "volume": "190",
+    "pages": "22-28",
+    "month": "Apr",
+    "doi": "https://doi.org/10.1016/j.patrec.2025.01.032",
+    "arxiv": "https://arxiv.org/abs/2408.02301",
+    "code": "https://github.com/hjdw2/NFE"
+  },
+  {
+    "type": "Conference",
+    "title": "Exploring the  camera bias of person re-identification",
+    "author": "M. Song, J.-W. Park, J.-S. Lee",
+    "year": "2025",
+    "booktitle": "Int. Conf. Learning Representations (ICLR) (spotlight)",
+    "month": "Apr",
+    "doi": "https://openreview.net/forum?id=SgymXhOEA5",
+    "arxiv": "https://arxiv.org/abs/2502.10195"
+  },
+  {
+    "type": "Journal",
+    "title": "Temporal shuffling for defending deep action recognition models against adversarial attacks",
+    "author": "J. Hwang, H. Zhang, J.-H. Choi, C.-J. Hsieh, J.-S. Lee",
+    "year": "2024",
+    "journal": "Neural Networks",
+    "volume": "169",
+    "pages": "388-397",
+    "month": "Jan",
+    "doi": "https://doi.org/10.1016/j.neunet.2023.10.033",
+    "arxiv": "https://arxiv.org/abs/2112.07921"
+  },
+  {
+    "type": "Conference",
+    "title": "Similarity of neural architectures using adversarial attack transferability",
+    "author": "J. Hwang, D. Han, B. Heo, S. Park, S. Chun, J.-S. Lee",
+    "year": "2024",
+    "booktitle": "European Conf. Computer Vision (ECCV)",
+    "month": "Sep",
+    "doi": "https://doi.org/10.1007/978-3-031-73113-6_7",
+    "arxiv": "https://arxiv.org/abs/2210.11407",
+    "code": "https://github.com/J-H-Hwang/SAT"
+  },
+  {
+    "type": "Conference",
+    "title": "Anomaly score: Evaluating generative models and individual generated images based on complexity and vulnerability",
+    "author": "J. Hwang, J. Lee, J.-S. Lee",
+    "year": "2024",
+    "booktitle": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR)",
+    "month": "Jun",
+    "doi": "https://openaccess.thecvf.com/content/CVPR2024/html/Hwang_Anomaly_Score_Evaluating_Generative_Models_and_Individual_Generated_Images_based_CVPR_2024_paper.html",
+    "arxiv": "https://arxiv.org/abs/2312.10634",
+    "code": "https://github.com/mcml-official/Anomaly_Score",
+    "video": "https://www.youtube.com/watch?v=rqQg9z_Mpdg"
+  },
+  {
+    "type": "Conference",
+    "title": "Curved representation space of vision transformers",
+    "author": "J. Kim, J. Park, S. Kim, J.-S. Lee",
+    "year": "2024",
+    "booktitle": "AAAI Conf. Artificial Intelligence (AAAI)",
+    "month": "Feb",
+    "doi": "https://doi.org/10.1609/aaai.v38i12.29213",
+    "arxiv": "https://arxiv.org/abs/2210.05742"
+  },
+  {
+    "type": "Conference",
+    "title": "Exploring adversarial robustness of vision transformers in the spectral perspective",
+    "author": "G. Kim, J. Kim, J.-S. Lee",
+    "year": "2024",
+    "booktitle": "Winter Conf. Applications of Computer Vision (WACV)",
+    "month": "Jan",
+    "doi": "https://openaccess.thecvf.com/content/WACV2024/html/Kim_Exploring_Adversarial_Robustness_of_Vision_Transformers_in_the_Spectral_Perspective_WACV_2024_paper.html",
+    "arxiv": "https://arxiv.org/abs/2208.09602",
+    "code": "https://github.com/gihyunkim/Exploring-Adversarial-Robustness-of-ViT-in-the-Spectral-Perspective?tab=readme-ov-file",
+    "video": "https://www.youtube.com/watch?v=TP4MKRKGnp0"
+  },
+  {
+    "type": "Journal",
+    "title": "Probabilistic modeling of image aesthetic assessment towards measuring subjectivity",
+    "author": "H. Jang, Y. Lee, J.-S. Lee",
+    "year": "2023",
+    "journal": "IEEE Access",
+    "volume": "11",
+    "pages": "145772-145780",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/ACCESS.2023.3345921"
+  },
+  {
+    "type": "Journal",
+    "title": "E2E-BPF microscope: Extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution",
+    "author": "B. Seong, W. Kim, Y. Kim, K.-A. Hyun, H.-I. Jung, J.-S. Lee, J. Yoo, C. Joo",
+    "year": "2023",
+    "journal": "Light: Science & Applications",
+    "volume": "12",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1038/s41377-023-01300-5"
+  },
+  {
+    "type": "Journal",
+    "title": "EEG-based emotional video classification via learning connectivity structure",
+    "author": "S. Jang, S.-E. Moon, J.-S. Lee",
+    "year": "2023",
+    "journal": "IEEE Trans. Affective Computing",
+    "volume": "14",
+    "month": "Jun",
+    "doi": "https://doi.org/10.1109/TAFFC.2021.3126263",
+    "arxiv": "https://arxiv.org/abs/1905.11678"
+  },
+  {
+    "type": "Journal",
+    "title": "Tyrosine-mediated analog resistive switching for artificial neural networks",
+    "author": "M.-K. Song, S. D. Namgung, H. Lee, J. H. Yoon, Y.-W. Song, K. H. Cho, Y.-S. Lee, J.-S. Lee, K. T. Nam, J.-Y. Kwon",
+    "year": "2023",
+    "journal": "Nano Research",
+    "volume": "16",
+    "month": "Jan",
+    "doi": "https://doi.org/10.1007/s12274-022-4760-1"
+  },
+  {
+    "type": "Conference",
+    "title": "LUT-LIC: Look-up table-assisted learned image compression",
+    "author": "S. Yu, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "Int. Conf. Neural Information Processing (ICONIP)",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1007/978-981-99-8148-9_34"
+  },
+  {
+    "type": "Conference",
+    "title": "Integer quantized learned image compression",
+    "author": "G.-W. Jeon, S. Yu, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/ICIP49359.2023.10222336"
+  },
+  {
+    "type": "Conference",
+    "title": "Leveraging feature interaction for modeling user-item interaction in recommender systems",
+    "author": "S. Jang, S. Lee, J. Park, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/SMC53992.2023.10394154"
+  },
+  {
+    "type": "Conference",
+    "title": "Enhancing graph structures for node classification: an alternative view on adversarial attacks",
+    "author": "S. Jang, J. Park, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/SMC53992.2023.10394321"
+  },
+  {
+    "type": "Conference",
+    "title": "ViPLO: Vision transformer based pose-conditioned self-loop graph for human-object interaction detection",
+    "author": "J. Park, J.-W. Park, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR)",
+    "month": "Jun",
+    "doi": "https://openaccess.thecvf.com/content/CVPR2023/html/Park_ViPLO_Vision_Transformer_Based_Pose-Conditioned_Self-Loop_Graph_for_Human-Object_Interaction_CVPR_2023_paper.html",
+    "arxiv": "https://arxiv.org/abs/2304.08114",
+    "code": "https://github.com/Jeeseung-Park/ViPLO"
+  },
+  {
+    "type": "Conference",
+    "title": "Amicable aid: perturbing images to improve classification performance",
+    "author": "J. Kim, J.-H. Choi, S. Jang, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "month": "Jun",
+    "doi": "https://doi.org/10.1109/ICASSP49357.2023.10095024",
+    "arxiv": "https://arxiv.org/abs/2112.04720"
+  },
+  {
+    "type": "Conference",
+    "title": "Demystifying randomly initialized networks for evaluating generative models",
+    "author": "J. Lee, J.-H. Kim, J.-S. Lee",
+    "year": "2023",
+    "booktitle": "AAAI Conf. Artificial Intelligence (AAAI)",
+    "month": "Feb",
+    "doi": "https://doi.org/10.1609/aaai.v37i7.26022",
+    "arxiv": "https://arxiv.org/abs/2208.09218"
+  },
+  {
+    "type": "Journal",
+    "title": "Local critic training for model-parallel learning of deep neural networks",
+    "author": "H. Lee, C.-J. Hsieh, J.-S. Lee",
+    "year": "2022",
+    "journal": "IEEE Trans. Neural Networks and Learning Systems",
+    "volume": "33",
+    "month": "Sep",
+    "doi": "https://doi.org/10.1109/TNNLS.2021.3057380",
+    "arxiv": "https://arxiv.org/abs/2102.01963",
+    "code": "https://github.com/hjdw2/Local-critic-training"
+  },
+  {
+    "type": "Journal",
+    "title": "Successive learned image compression: Comprehensive analysis of instability",
+    "author": "J.-H. Kim, S. Jang, J.-H. Choi, J.-S. Lee",
+    "year": "2022",
+    "journal": "Neurocomputing",
+    "volume": "506",
+    "pages": "12-24",
+    "month": "Sep",
+    "doi": "https://doi.org/10.1016/j.neucom.2022.07.065"
+  },
+  {
+    "type": "Journal",
+    "title": "Humidity-induced synaptic plasticity of ZnO artificial synapses using peptide insulator for neuromorphic computing",
+    "author": "M.-K. Song, H. Lee, J. H. Yoon, Y.-W. Song, S. D. Namgung, T. Sung, Y.-S. Lee, J.-S. Lee, K. T. Nam, J.-Y. Kwon",
+    "year": "2022",
+    "journal": "Journal of Materials Science & Technology",
+    "volume": "119",
+    "pages": "150-155",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1016/j.jmst.2021.12.016"
+  },
+  {
+    "type": "Journal",
+    "title": "Classifying gas data measured under multiple conditions using deep learning",
+    "author": "H. Lee, J. Hwang, H. D. Park, J. H. Choi, J.-S. Lee",
+    "year": "2022",
+    "journal": "IEEE Access",
+    "volume": "10",
+    "pages": "68138-68150",
+    "month": "Jun",
+    "doi": "https://doi.org/10.1109/ACCESS.2022.3185613"
+  },
+  {
+    "type": "Journal",
+    "title": "Engineering pupil function for optical adversarial attack",
+    "author": "K. Kim, J. Kim, S. Song, J.-H. Choi, C. Joo, J.-S. Lee",
+    "year": "2022",
+    "journal": "Optics Express",
+    "volume": "30",
+    "month": "Feb",
+    "doi": "https://doi.org/10.1364/OE.450058"
+  },
+  {
+    "type": "Conference",
+    "title": "Rethinking online knowledge distillation with multi-exits",
+    "author": "H. Lee, J.-S. Lee",
+    "year": "2022",
+    "booktitle": "Asian Conf. Computer Vision (ACCV)",
+    "month": "Dec",
+    "doi": "https://openaccess.thecvf.com/content/ACCV2022/html/Lee_Rethinking_Online_Knowledge_Distillation_with_Multi-Exits_ACCV_2022_paper.html",
+    "code": "https://github.com/hjdw2/BEED"
+  },
+  {
+    "type": "Conference",
+    "title": "TREND: Truncated generalized normal density estimation of inception embeddings for GAN evaluation",
+    "author": "J. Lee, J.-S. Lee",
+    "year": "2022",
+    "booktitle": "European Conf. Computer Vision (ECCV)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1007/978-3-031-20050-2_6",
+    "arxiv": "https://arxiv.org/abs/2104.14767",
+    "code": "https://github.com/junghyuk-lee/TREND"
+  },
+  {
+    "type": "Conference",
+    "title": "Resting-state fNIRS classification using connectivity and convolutional neural networks",
+    "author": "S. Moon, S.-E. Moon, J.-S. Lee",
+    "year": "2022",
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/SMC53654.2022.9945172"
+  },
+  {
+    "type": "Conference",
+    "title": "Adversarial robustness of flow-based image super-resolution",
+    "author": "J. Park, J.-H. Choi, J.-S. Lee",
+    "year": "2022",
+    "booktitle": "IEEE Int. Workshop on Multimedia Signal Processing (MMSP)",
+    "month": "Sep",
+    "doi": "https://doi.org/10.1109/MMSP55362.2022.9949274"
+  },
+  {
+    "type": "Conference",
+    "title": "Deep image destruction: Vulnerability of deep image-to-image models against adversarial attacks",
+    "author": "J.-H. Choi, H. Zhang, J.-H. Kim, C.-J. Hsieh, J.-S. Lee",
+    "year": "2022",
+    "booktitle": "Int. Conf. Pattern Recognition (ICPR)",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1109/ICPR56361.2022.9956577",
+    "arxiv": "https://arxiv.org/abs/2104.15022"
+  },
+  {
+    "type": "Conference",
+    "title": "Joint global and local hierarchical priors for learned image compression",
+    "author": "J.-H. Kim, B. Heo, J.-S. Lee",
+    "year": "2022",
+    "booktitle": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR)",
+    "month": "Jun",
+    "doi": "https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Joint_Global_and_Local_Hierarchical_Priors_for_Learned_Image_Compression_CVPR_2022_paper.html",
+    "arxiv": "https://arxiv.org/abs/2112.04487",
+    "code": "https://github.com/junhyukk/informer"
+  },
+  {
+    "type": "Journal",
+    "title": "Prediction of car design perception using EEG and gaze patterns",
+    "author": "S.-E. Moon, J.-H. Kim, S.-W. Kim, J.-S. Lee",
+    "year": "2021",
+    "journal": "IEEE Trans. Affective Computing",
+    "volume": "12",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/TAFFC.2019.2901733"
+  },
+  {
+    "type": "Journal",
+    "title": "Wide color gamut image content characterization: method, evaluation, and applications",
+    "author": "J. Lee, T. Vigier, P. Le Callet, J.-S. Lee",
+    "year": "2021",
+    "journal": "IEEE Trans. Multimedia",
+    "volume": "23",
+    "pages": "3817-3827",
+    "doi": "https://doi.org/10.1109/TMM.2020.3032026",
+    "arxiv": "https://arxiv.org/abs/2101.07451"
+  },
+  {
+    "type": "Journal",
+    "title": "Ambiguity of objective image quality metrics: A new methodology for performance evaluation",
+    "author": "M. Cheon, T. Vigier, L. Krasula, J. Lee, P. Le Callet, J.-S. Lee",
+    "year": "2021",
+    "journal": "Signal Processing: Image Communication",
+    "volume": "93",
+    "month": "Apr",
+    "doi": "https://doi.org/10.1016/j.image.2021.116150",
+    "arxiv": "https://arxiv.org/abs/2101.07439"
+  },
+  {
+    "type": "Journal",
+    "title": "Volatile-nonvolatile memory network for progressive image super-resolution",
+    "author": "J.-H. Choi, J.-H. Kim, M. Cheon, J.-S. Lee",
+    "year": "2021",
+    "journal": "IEEE Access",
+    "volume": "9",
+    "pages": "37487-37496",
+    "month": "Mar",
+    "doi": "https://doi.org/10.1109/ACCESS.2021.3063760",
+    "code": "https://github.com/idearibosome/tf-vmnet"
+  },
+  {
+    "type": "Journal",
+    "title": "Analysis of deep features for image aesthetic assessment",
+    "author": "H. Jang, J.-S. Lee",
+    "year": "2021",
+    "journal": "IEEE Access",
+    "volume": "9",
+    "pages": "29850-29861",
+    "month": "Feb",
+    "doi": "https://doi.org/10.1109/ACCESS.2021.3060171"
+  },
+  {
+    "type": "Conference",
+    "title": "Just one moment: Structural vulnerability of deep action recognition against one frame attack",
+    "author": "J. Hwang, J.-H. Kim, J.-H. Choi, J.-S. Lee",
+    "year": "2021",
+    "booktitle": "Int. Conf. Computer Vision (ICCV)",
+    "month": "Oct",
+    "doi": "https://openaccess.thecvf.com/content/ICCV2021/html/Hwang_Just_One_Moment_Structural_Vulnerability_of_Deep_Action_Recognition_Against_ICCV_2021_paper.html",
+    "arxiv": "http://arxiv.org/abs/2011.14585v2",
+    "video": "https://www.youtube.com/watch?v=IPOVL4ypMdc"
+  },
+  {
+    "type": "Conference",
+    "title": "Edge attention network for image deblurring and super-resolution",
+    "author": "J.-W. Han, J.-H. Choi, J.-H. Kim, J.-S. Lee",
+    "year": "2021",
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/SMC52423.2021.9658863"
+  },
+  {
+    "type": "Conference",
+    "title": "NTIRE 2021 challenge on image deblurring",
+    "author": "S. Nah et al.",
+    "year": "2021",
+    "booktitle": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR) Workshops",
+    "month": "Jun",
+    "doi": "https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.html",
+    "arxiv": "https://arxiv.org/abs/2104.14854"
+  },
+  {
+    "type": "Conference",
+    "title": "Application of a deep reinforcement learning algorithm in household inverter air-conditioner temperature control",
+    "author": "M. S. Yoon, W. S. Yoon, J.-S. Lee",
+    "year": "2021",
+    "booktitle": "IEA Heat Pump Conference (HPC)",
+    "month": "Apr"
+  },
+  {
+    "type": "Journal",
+    "title": "Emotional EEG classification using connectivity features and convolutional neural networks",
+    "author": "S.-E. Moon, C.-J. Chen, C.-J. Hsieh, J.-L. Wang, J.-S. Lee",
+    "year": "2020",
+    "journal": "Neural Networks",
+    "volume": "132",
+    "pages": "96-107",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1016/j.neunet.2020.08.009",
+    "arxiv": "http://arxiv.org/abs/2101.07069"
+  },
+  {
+    "type": "Journal",
+    "title": "Objectivity and subjectivity in aesthetic quality assessment of digital photographs",
+    "author": "W.-H. Kim, J.-H. Choi, J.-S. Lee",
+    "year": "2020",
+    "journal": "IEEE Trans. Affective Computing",
+    "volume": "11",
+    "month": "Sep",
+    "doi": "https://doi.org/10.1109/TAFFC.2018.2809752"
+  },
+  {
+    "type": "Journal",
+    "title": "MAMNet: Multi-path adaptive modulation network for image super-resolution",
+    "author": "J.-H. Kim, J.-H. Choi, M. Cheon, J.-S. Lee",
+    "year": "2020",
+    "journal": "Neurocomputing",
+    "volume": "402",
+    "pages": "38-49",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1016/j.neucom.2020.03.069",
+    "arxiv": "http://arxiv.org/abs/1811.12043"
+  },
+  {
+    "type": "Journal",
+    "title": "Deep learning-based image super-resolution considering quantitative and perceptual quality",
+    "author": "J.-H. Choi, J.-H. Kim, M. Cheon, J.-S. Lee",
+    "year": "2020",
+    "journal": "Neurocomputing",
+    "volume": "398",
+    "pages": "347-359",
+    "month": "Jul",
+    "doi": "https://doi.org/10.1016/j.neucom.2019.06.103",
+    "arxiv": "http://arxiv.org/abs/1809.04789",
+    "code": "https://github.com/idearibosome/tf-perceptual-eusr"
+  },
+  {
+    "type": "Journal",
+    "title": "A portable smartphone-linked device for direct, rapid and chemical-free hemoglobin assay",
+    "author": "J. Lee, J. Song, J.-H. Choi, S. Kim, U. Kim, V.-T. Nguyen, J.-S. Lee, C. Joo",
+    "year": "2020",
+    "journal": "Scientific Reports",
+    "volume": "10",
+    "doi": "https://www.nature.com/articles/s41598-020-65607-8"
+  },
+  {
+    "type": "Conference",
+    "title": "Adversarially robust deep image super-resolution using entropy regularization",
+    "author": "J.-H. Choi, H. Zhang, J.-H. Kim, C.-J. Hsieh, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Asian Conf. Computer Vision (ACCV)",
+    "month": "Nov",
+    "doi": "https://openaccess.thecvf.com/content/ACCV2020/html/Choi_Adversarially_Robust_Deep_Image_Super-Resolution_using_Entropy_Regularization_ACCV_2020_paper.html"
+  },
+  {
+    "type": "Conference",
+    "title": "Model-parallel learning of generative adversarial networks and its implementation",
+    "author": "H. Lee, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Int. Conf. Consumer Electronics Asia (ICCE-Asia)",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1109/ICCE-Asia49877.2020.9277332"
+  },
+  {
+    "type": "Conference",
+    "title": "Ternary classification for image aesthetic assessment using deep learning",
+    "author": "H. Jang, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Int. Conf. Consumer Electronics Asia (ICCE-Asia)",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1109/ICCE-Asia49877.2020.9277483"
+  },
+  {
+    "type": "Conference",
+    "title": "Efficient bokeh effect rendering using generative adversarial network",
+    "author": "M.-S. Choi, J.-H. Kim, J.-H. Choi, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Int. Conf. Consumer Electronics Asia (ICCE-Asia)",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1109/ICCE-Asia49877.2020.9276807"
+  },
+  {
+    "type": "Conference",
+    "title": "Multi-scale adaptive residual network using total variation for real image super-resolution",
+    "author": "K.-H. Ahn, J.-H. Kim, J.-H. Choi, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Int. Conf. Consumer Electronics Asia (ICCE-Asia)",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1109/ICCE-Asia49877.2020.9276925"
+  },
+  {
+    "type": "Conference",
+    "title": "Instability of successive deep image compression",
+    "author": "J.-H. Kim, S. Jang, J.-H. Choi, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "ACM Multimedia (MM)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1145/3394171.3413680",
+    "video": "https://www.youtube.com/watch?v=Jbdwp-cTZ9Q"
+  },
+  {
+    "type": "Conference",
+    "title": "Air conditioner component optimum operation point search through a deep reinforcement learning algorithm",
+    "author": "M.-S. Yoon, W.-S. Yoon, M.-K. Seo, S.-Y. Ryu, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Int. Conf. Control, Automation and Systems (ICCAS)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.23919/ICCAS50221.2020.9268387"
+  },
+  {
+    "type": "Conference",
+    "title": "LarvaNet: hierarchical super-resolution via multi-exit architecture",
+    "author": "G.-W. Jeon, J.-H. Choi, J.-H. Kim, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "European Conf. Computer Vision (ECCV) Workshops",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1007/978-3-030-67070-2_4"
+  },
+  {
+    "type": "Conference",
+    "title": "AIM 2020 challenge on efficient super-resolution: methods and results",
+    "author": "K. Zhang et al.",
+    "year": "2020",
+    "booktitle": "European Conf. Computer Vision (ECCV) Workshops",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1007/978-3-030-67070-2_1",
+    "arxiv": "https://arxiv.org/abs/2009.06943"
+  },
+  {
+    "type": "Conference",
+    "title": "AIM 2020 challenge on real image super-resolution: methods and results",
+    "author": "P. Wei et al.",
+    "year": "2020",
+    "booktitle": "European Conf. Computer Vision (ECCV) Workshops",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1007/978-3-030-67070-2_24",
+    "arxiv": "https://arxiv.org/abs/2009.12072"
+  },
+  {
+    "type": "Conference",
+    "title": "Dynamic thresholding for learning sparse neural networks",
+    "author": "J.-W. Park, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "European Conf. Artificial Intelligence (ECAI)",
+    "month": "Aug",
+    "doi": "https://doi.org/10.3233/FAIA200245",
+    "video": "https://www.youtube.com/watch?v=lJlqaYXVIrU"
+  },
+  {
+    "type": "Conference",
+    "title": "Learning conjunctive information of signals in multi-sensor systems",
+    "author": "S.-E. Moon, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "European Conf. Artificial Intelligence (ECAI)",
+    "month": "Aug",
+    "doi": "https://doi.org/10.3233/FAIA200240",
+    "video": "https://www.youtube.com/watch?v=yr7zUHXeXgo"
+  },
+  {
+    "type": "Conference",
+    "title": "MaDeNet: disentangling individuality of EEG signals through feature space mapping and detachment",
+    "author": "S.-E. Moon, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "Int. Engineering in Medicine and Biology Conf. (EMBC)",
+    "month": "Jul",
+    "doi": "https://doi.org/10.1109/EMBC44109.2020.9176301",
+    "video": "https://www.youtube.com/watch?v=f1cuHOYnq94"
+  },
+  {
+    "type": "Conference",
+    "title": "Efficient deep learning-based lossy image compression via asymmetric autoencoder and pruning",
+    "author": "J.-H. Kim, J.-H. Choi, J. Chang, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "doi": "https://doi.org/10.1109/ICASSP40776.2020.9053102",
+    "video": "https://www.youtube.com/watch?v=t5GMcgByTZ8"
+  },
+  {
+    "type": "Conference",
+    "title": "SRZoo: an integrated repository for super-resolution using deep learning",
+    "author": "J.-H. Choi, J.-H. Kim, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "doi": "https://doi.org/10.1109/ICASSP40776.2020.9054533",
+    "arxiv": "https://arxiv.org/abs/2006.01339",
+    "code": "https://github.com/idearibosome/srzoo",
+    "video": "https://www.youtube.com/watch?v=TmYdl7odLis"
+  },
+  {
+    "type": "Conference",
+    "title": "Real-time integrated human activity recognition system based on multimodal user understanding",
+    "author": "J.-H. Choi, K. Kim, T. Park, J. Yun, J.-H. Lee, S. Kim, H. Shim, J.-S. Lee",
+    "year": "2020",
+    "booktitle": "ACM Int. Conf. Intelligent User Interfaces (IUI) Companion",
+    "month": "Mar",
+    "doi": "https://doi.org/10.1145/3379336.3381482"
+  },
+  {
+    "type": "Conference",
+    "title": "Achieving real-time sign language translation using a smartphone's true depth images",
+    "author": "H. Park, J.-S. Lee, J. Ko",
+    "year": "2020",
+    "booktitle": "Int. Conf. Communication Systems & Networks (COMSNETS)",
+    "month": "Jan",
+    "doi": "https://doi.org/10.1109/COMSNETS48256.2020.9027420"
+  },
+  {
+    "type": "Journal",
+    "title": "Music for sleep and wake-up: An empirical study",
+    "author": "T. Lee, S.-E. Moon, J. Baek, J.-S. Lee, S. Kim",
+    "year": "2019",
+    "journal": "IEEE Access",
+    "volume": "7",
+    "pages": "145816-145828",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/ACCESS.2019.2945404"
+  },
+  {
+    "type": "Journal",
+    "title": "EmbraceNet: A robust deep learning architecture for multimodal classification",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2019",
+    "journal": "Information Fusion",
+    "volume": "51",
+    "pages": "259-270",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1016/j.inffus.2019.02.010",
+    "arxiv": "http://arxiv.org/abs/1904.09078",
+    "code": "https://github.com/idearibosome/embracenet"
+  },
+  {
+    "type": "Conference",
+    "title": "Evaluating robustness of deep image super-resolution against adversarial attacks",
+    "author": "J.-H. Choi, H. Zhang, J.-H. Kim, C.-J. Hsieh, J.-S. Lee",
+    "year": "2019",
+    "booktitle": "Int. Conf. Computer Vision (ICCV)",
+    "month": "Oct",
+    "doi": "http://openaccess.thecvf.com/content_ICCV_2019/html/Choi_Evaluating_Robustness_of_Deep_Image_Super-Resolution_Against_Adversarial_Attacks_ICCV_2019_paper.html",
+    "arxiv": "http://arxiv.org/abs/1904.06097",
+    "code": "https://github.com/idearibosome/tf-sr-attack"
+  },
+  {
+    "type": "Conference",
+    "title": "EmbraceNet for activity: A deep multimodal fusion architecture for activity recognition",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2019",
+    "booktitle": "ACM Int. Joint Conf. Pervasive and Ubiquitous Computing & Int. Symp. Wearable Computers (UbiComp/ISWC) Adjunct",
+    "month": "Sep",
+    "doi": "https://dl.acm.org/citation.cfm?id=3344871",
+    "arxiv": "http://arxiv.org/abs/2004.13918"
+  },
+  {
+    "type": "Conference",
+    "title": "Local critic training of deep neural networks",
+    "author": "H. Lee, J.-S. Lee",
+    "year": "2019",
+    "booktitle": "Int. Joint Conf. Neural Networks (IJCNN)",
+    "month": "Jul",
+    "doi": "https://doi.org/10.1109/IJCNN.2019.8851709",
+    "arxiv": "http://arxiv.org/abs/1805.01128"
+  },
+  {
+    "type": "Journal",
+    "title": "Music popularity: Metrics, characteristics, and audio-based prediction",
+    "author": "J. Lee, J.-S. Lee",
+    "year": "2018",
+    "journal": "IEEE Trans. Multimedia",
+    "volume": "20",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1109/TMM.2018.2820903",
+    "arxiv": "http://arxiv.org/abs/1812.00551"
+  },
+  {
+    "type": "Journal",
+    "title": "Subjective and objective quality assessment of compressed 4K UHD videos for immersive experience",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2018",
+    "journal": "IEEE Trans. Circuits and Systems for Video Technology",
+    "volume": "28",
+    "month": "Jul",
+    "doi": "https://doi.org/10.1109/TCSVT.2017.2683504"
+  },
+  {
+    "type": "Journal",
+    "title": "Color-coded LED microscopy for quantitative phase imaging: Implementation and application to sperm motility analysis",
+    "author": "W. Lee, J.-H. Choi, S. Ryu, D. Jung, J. Song, J.-S. Lee, C. Joo",
+    "year": "2018",
+    "journal": "Methods",
+    "volume": "136",
+    "pages": "66-74",
+    "month": "Mar",
+    "doi": "https://doi.org/10.1016/j.ymeth.2017.11.010"
+  },
+  {
+    "type": "Conference",
+    "title": "Deep learning-based super-resolution for digital comics",
+    "author": "J.-H. Kim, J.-H. Choi, C.-H. Seo, J. Chang, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "ACM SIGGRAPH Asia Posters",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1145/3283289.3283337"
+  },
+  {
+    "type": "Conference",
+    "title": "Confidence-based deep multimodal fusion for activity recognition",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "ACM Int. Joint Conf. Pervasive and Ubiquitous Computing (UbiComp) Adjunct",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1145/3267305.3267522"
+  },
+  {
+    "type": "Conference",
+    "title": "Perceptual switch for gaze interaction",
+    "author": "J. Lee, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "ACM User Interface Software and Technology Symposium (UIST) Adjunct",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1145/3266037.3266107"
+  },
+  {
+    "type": "Conference",
+    "title": "On the repeatability of EEG-based image quality assessment",
+    "author": "J. Hwang, S.-E. Moon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/SMC.2018.00308"
+  },
+  {
+    "type": "Conference",
+    "title": "A perception-based framework for wide color gamut content selection",
+    "author": "J. Lee, T. Vigier, P. Le Callet, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)",
+    "month": "Oct",
+    "doi": "https://doi.org/10.1109/ICIP.2018.8451497"
+  },
+  {
+    "type": "Conference",
+    "title": "Generative adversarial network-based image super-resolution using perceptual content losses",
+    "author": "M. Cheon, J.-H. Kim, J.-H. Choi, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "European Conf. Computer Vision (ECCV) Workshops",
+    "month": "Sep",
+    "doi": "https://doi.org/10.1007/978-3-030-11021-5_4",
+    "arxiv": "http://arxiv.org/abs/1809.04783"
+  },
+  {
+    "type": "Conference",
+    "title": "Spatial-wise feature relation loss for super-resolution",
+    "author": "J.-H. Kim, J.-H. Choi, M. Cheon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "European Conf. Computer Vision (ECCV), Workshop and Challenge on Perceptual Image Restoration and Manipulation (PIRM)",
+    "month": "Sep"
+  },
+  {
+    "type": "Conference",
+    "title": "Perceptually improved super-resolution using multi-pass upscaling and qualitative score predictors",
+    "author": "J.-H. Choi, J.-H. Kim, M. Cheon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "European Conf. Computer Vision (ECCV), Workshop and Challenge on Perceptual Image Restoration and Manipulation (PIRM)",
+    "month": "Sep"
+  },
+  {
+    "type": "Conference",
+    "title": "Perceptually improved super-resolution using multi-pass upscaling and qualitative score predictors",
+    "author": "J.-H. Choi, J.-H. Kim, M. Cheon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "European Conf. Computer Vision (ECCV), Workshop and Challenge on Perceptual Image Restoration and Manipulation (PIRM)",
+    "month": "Sep"
+  },
+  {
+    "type": "Conference",
+    "title": "Aesthetic color templates for enhancing casual videos",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "SPIE Optical Enginering + Applications",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1117/12.2320877"
+  },
+  {
+    "type": "Conference",
+    "title": "Deep residual network with enhanced upscaling module for super-resolution",
+    "author": "J.-H. Kim, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR) Workshops",
+    "month": "Jun",
+    "doi": "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Kim_Deep_Residual_Network_CVPR_2018_paper.html",
+    "code": "https://github.com/ghgh3269/EUSR-Tensorflow"
+  },
+  {
+    "type": "Conference",
+    "title": "NTIRE 2018 challenge on single image super-resolution: methods and results",
+    "author": "R. Timofte et al.",
+    "year": "2018",
+    "booktitle": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR) Workshops",
+    "month": "Jun",
+    "doi": "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Timofte_NTIRE_2018_Challenge_CVPR_2018_paper.html"
+  },
+  {
+    "type": "Conference",
+    "title": "Graph signal representation of EEG for graph convolutional neural networks",
+    "author": "S. Jang, S.-E. Moon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "Graph Signal Processing (GSP) Workshop",
+    "month": "Jun"
+  },
+  {
+    "type": "Conference",
+    "title": "Graph signal modeling of EEG and its application to EEG-based video classification using deep learning on graphs",
+    "author": "S. Jang, S.-E. Moon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "Int. School and Conf. Network Science (NetSci)",
+    "month": "Jun"
+  },
+  {
+    "type": "Conference",
+    "title": "Evaluation of preference of multimedia content using deep neural network for electroencephalography",
+    "author": "S.-E. Moon, S. Jang, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "Int. Workshop on Quality of Multimedia Experience (QoMEX), May 2018",
+    "doi": "https://doi.org/10.1109/QoMEX.2018.8463373",
+    "arxiv": "https://arxiv.org/abs/1809.03650"
+  },
+  {
+    "type": "Conference",
+    "title": "EEG-based video identification using graph signal modeling and graph convolutional neural network",
+    "author": "S. Jang, S.-E. Moon, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "month": "Apr",
+    "doi": "https://doi.org/10.1109/ICASSP.2018.8462207",
+    "arxiv": "https://arxiv.org/abs/1809.04229"
+  },
+  {
+    "type": "Conference",
+    "title": "Convolutional neural network approach for EEG-based emotion recognition using brain connectivity and its spatial information",
+    "author": "S.-E. Moon, S. Jang, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "month": "Apr",
+    "doi": "https://doi.org/10.1109/ICASSP.2018.8461315",
+    "arxiv": "https://arxiv.org/abs/1809.04208"
+  },
+  {
+    "type": "Conference",
+    "title": "Graph analysis for understanding the perceived quality of user-generated videos",
+    "author": "S. Jang, J.-S. Lee",
+    "year": "2018",
+    "booktitle": "Int. School and Conf. on Network Science (NetSci-X)",
+    "month": "Jan"
+  },
+  {
+    "type": "Conference",
+    "title": "Emotion and fatigue monitoring using wearable devices",
+    "author": "J.-S. Lee, Y.-S. Bae, W. Lee, H. Lee, J. Yu, J.-P. Choi",
+    "year": "2018",
+    "booktitle": "Int. Conf. Green and Human Information Technology",
+    "month": "Jan"
+  },
+  {
+    "type": "Journal",
+    "title": "Smartphone-based multi-contrast microscope using color-multiplexed illumination",
+    "author": "D. Jung, J.-H. Choi, S. Kim, S. Ryu, W. Lee, J.-S. Lee, C. Joo",
+    "year": "2017",
+    "journal": "Scientific Reports",
+    "volume": "7",
+    "month": "Aug",
+    "doi": "https://www.nature.com/articles/s41598-017-07703-w"
+  },
+  {
+    "type": "Journal",
+    "title": "QoE-aware scalable video transmission in MIMO systems",
+    "author": "S.-J. Kim, G.-Y. Suk, J.-S. Lee, C.-B. Chae",
+    "year": "2017",
+    "journal": "IEEE Communications Magazine",
+    "volume": "55",
+    "month": "Aug",
+    "doi": "https://doi.org/10.1109/MCOM.2017.1600279",
+    "arxiv": "https://arxiv.org/abs/1610.07387"
+  },
+  {
+    "type": "Journal",
+    "title": "Blind single image super resolution with low computational complexity",
+    "author": "W.-H. Kim, J.-S. Lee",
+    "year": "2017",
+    "journal": "Multimedia Tools and Applications",
+    "volume": "76",
+    "month": "Mar",
+    "doi": "http://link.springer.com/article/10.1007/s11042-016-3396-0"
+  },
+  {
+    "type": "Journal",
+    "title": "Implicit analysis of perceptual multimedia experience based on physiological response: a review",
+    "author": "S.-E. Moon, J.-S. Lee",
+    "year": "2017",
+    "journal": "IEEE Trans. Multimedia",
+    "volume": "19",
+    "month": "Feb",
+    "doi": "http://dx.doi.org/10.1109/TMM.2016.2614880",
+    "arxiv": "https://arxiv.org/abs/1809.04254"
+  },
+  {
+    "type": "Conference",
+    "title": "Influence of video quality on multi-view activity recognition",
+    "author": "J.-H. Choi, M. Cheon, J.-S. Lee",
+    "year": "2017",
+    "booktitle": "IEEE Int. Symp. Multimedia (ISM)",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/ISM.2017.101"
+  },
+  {
+    "type": "Conference",
+    "title": "Aesthetic temporal and spatial editing of casual videos",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2017",
+    "booktitle": "ACM SIGGRAPH Asia Posters",
+    "month": "Nov",
+    "doi": "https://doi.org/10.1145/3145690.3145733"
+  },
+  {
+    "type": "Conference",
+    "title": "Impact of three-dimensional video scalability on multi-view activity recognition using deep learning",
+    "author": "J.-H. Choi, M. Cheon, M.-S. Choi, J.-S. Lee",
+    "year": "2017",
+    "booktitle": "Thematic Workshops of ACM Multimedia (MM)",
+    "month": "Oct",
+    "doi": "https://dl.acm.org/citation.cfm?id=3126769",
+    "arxiv": "https://arxiv.org/abs/1709.10206"
+  },
+  {
+    "type": "Conference",
+    "title": "Assessing product design using photos and real products",
+    "author": "S.-E. Moon, J.-H. Kim, S.-W. Kim, J.-S. Lee",
+    "year": "2017",
+    "booktitle": "ACM Conf. Human Factors in Computing Systems (CHI), Extended Abstract",
+    "doi": "https://doi.org/10.1145/3027063.3053336"
+  },
+  {
+    "type": "Conference",
+    "title": "Smart band for physiological signal-based stress monitoring",
+    "author": "S.-E. Moon, J.-S. Lee, W. Lee, H. Lee, Y.-S. Bae",
+    "year": "2017",
+    "booktitle": "Int. Conf. Green and Human Information Technology",
+    "month": "Feb"
+  },
+  {
+    "type": "Journal",
+    "title": "Modeling immersive media experiences by sensing impact on subjects",
+    "author": "E. Kroupi, P. Hanhart, J.-S. Lee, M. Rerabek, T. Ebrahimi",
+    "year": "2016",
+    "journal": "Multimedia Tools and Applications",
+    "volume": "75",
+    "month": "Oct",
+    "doi": "http://dx.doi.org/10.1007/s11042-015-2980-z"
+  },
+  {
+    "type": "Journal",
+    "title": "On evaluating perceptual quality of online user-generated videos",
+    "author": "S. Jang, J.-S. Lee",
+    "year": "2016",
+    "journal": "IEEE Trans. Multimedia",
+    "volume": "18",
+    "month": "Sep",
+    "doi": "http://dx.doi.org/10.1109/TMM.2016.2581582",
+    "arxiv": "https://arxiv.org/abs/1809.05220"
+  },
+  {
+    "type": "Journal",
+    "title": "Subjective and objective quality assessment of videos in error-prone network environments",
+    "author": "S.-J. Kim, C.-B. Chae, J.-S. Lee",
+    "year": "2016",
+    "journal": "Multimedia Tools and Applications",
+    "volume": "75",
+    "month": "Jun",
+    "doi": "http://link.springer.com/article/10.1007%2Fs11042-015-2613-6"
+  },
+  {
+    "type": "Journal",
+    "title": "Evaluation of objective quality metrics for multidimensional video scalability",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2016",
+    "journal": "Journal of Visual Communication and Image Representation",
+    "volume": "35",
+    "pages": "132-145",
+    "month": "Feb",
+    "doi": "http://dx.doi.org/10.1016/j.jvcir.2015.12.008"
+  },
+  {
+    "type": "Journal",
+    "title": "Online social networks for crowdsourced multimedia-involved behavioral testing: an empirical study",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2016",
+    "journal": "Frontiers in Psychology",
+    "volume": "6",
+    "month": "Jan",
+    "doi": "http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01991/abstract"
+  },
+  {
+    "type": "Journal",
+    "title": "On ambiguity of objective image quality assessment",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2016",
+    "journal": "Electronics Letters",
+    "volume": "52",
+    "month": "Jan",
+    "doi": "http://dx.doi.org/10.1049/el.2015.2801"
+  },
+  {
+    "type": "Conference",
+    "title": "Machine learning for brain imaging under perceptual experience of multimedia content",
+    "author": "S.-E. Moon, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "Annual Conf. Neural Information Processing Systems (NIPS), Women in Machine Learning Workshop (WiML)",
+    "month": "Dec"
+  },
+  {
+    "type": "Conference",
+    "title": "Travel photo album summarization based on aesthetic quality, interestingness, and memorableness",
+    "author": "J.-H. Kim, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "APSIPA Annual Summit and Conference",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/APSIPA.2016.7820889"
+  },
+  {
+    "type": "Conference",
+    "title": "Analysis of spatial, temporal, and content characteristics of videos in the YFCC100M dataset",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "ACM Multimedia (MM), Multimedia COMMONS Workshop",
+    "month": "Oct",
+    "doi": "http://doi.org/10.1145/2983554.2983559"
+  },
+  {
+    "type": "Conference",
+    "title": "Peripersonal space in virtual reality: navigating 3D space with different perspectives",
+    "author": "J. Lee, M. Cheon, S.-E. Moon, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "ACM User Interface Software and Technology Symposium (UIST) Adjuct",
+    "month": "Oct",
+    "doi": "http://doi.org/10.1145/2984751.2984772"
+  },
+  {
+    "type": "Conference",
+    "title": "Analysis of gaze patterns during aesthetic photo quality assessment",
+    "author": "H. Jang, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "Int. Conf. Quality of Multimedia Experience (QoMEX)",
+    "month": "Jun"
+  },
+  {
+    "type": "Conference",
+    "title": "Ambiguity-based evaluation of objective quality metrics for image compression",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "Int. Conf. Quality of Multimedia Experience (QoMEX)",
+    "month": "Jun",
+    "doi": "http://dx.doi.org/10.1109/QoMEX.2016.7498944"
+  },
+  {
+    "type": "Conference",
+    "title": "Data-driven feature word selection for clustering online news comments",
+    "author": "H. Cho, J.-S. Lee",
+    "year": "2016",
+    "booktitle": "Int. Conf. Big Data and Smart Computing, Exobrain Workshop",
+    "month": "Jan",
+    "doi": "http://dx.doi.org/10.1109/BIGCOMP.2016.7425977"
+  },
+  {
+    "type": "Journal",
+    "title": "Temporal resolution vs. visual saliency in video: Analysis of gaze patterns and evaluation of saliency models",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2015",
+    "journal": "Signal Processing: Image Communication",
+    "volume": "39",
+    "pages": "405-417",
+    "month": "Nov",
+    "doi": "http://dx.doi.org/10.1016/j.image.2015.05.010"
+  },
+  {
+    "type": "Journal",
+    "title": "Perceptual experience analysis for tone-mapped HDR videos based on EEG and peripheral physiological signals",
+    "author": "S.-E. Moon and J.-S. Lee",
+    "year": "2015",
+    "journal": "IEEE Trans. Autonomous Mental Development",
+    "volume": "7",
+    "month": "Sep",
+    "doi": "http://dx.doi.org/10.1109/TAMD.2015.2449553",
+    "arxiv": "https://arxiv.org/abs/1809.04777"
+  },
+  {
+    "type": "Journal",
+    "title": "Framework for fair objective performance evaluation of single image super resolution algorithms",
+    "author": "W.-H. Kim, J.-S. Lee",
+    "year": "2015",
+    "journal": "Electronics Letters",
+    "volume": "51",
+    "month": "Jan",
+    "doi": "http://dx.doi.org/10.1049/el.2014.2784"
+  },
+  {
+    "type": "Conference",
+    "title": "Predicting music popularity patterns based on musical complexity and early stage popularity",
+    "author": "J. Lee, J.-S. Lee",
+    "year": "2015",
+    "booktitle": "ACM Multimedia (MM), Workshop on Speech, Language & Audio in Multimedia (SLAM)",
+    "month": "Oct",
+    "doi": "http://dl.acm.org/citation.cfm?id=2814645"
+  },
+  {
+    "type": "Conference",
+    "title": "Subjectivity in aesthetic quality assessment of digital photographs: Analysis of user comments",
+    "author": "W.-H. Kim, J.-H. Choi, J.-S. Lee",
+    "year": "2015",
+    "booktitle": "ACM Multimedia (MM)",
+    "month": "Oct",
+    "doi": "http://dl.acm.org/citation.cfm?id=2806380"
+  },
+  {
+    "type": "Conference",
+    "title": "EEG connectivity analysis in perception of tone-mapped high dynamic range videos",
+    "author": "S.-E. Moon, J.-S. Lee",
+    "year": "2015",
+    "booktitle": "ACM Multimedia (MM)",
+    "month": "Oct",
+    "doi": "http://dl.acm.org/citation.cfm?id=2806382"
+  },
+  {
+    "type": "Conference",
+    "title": "Automated video editing for aesthetic quality improvement",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2015",
+    "booktitle": "ACM Multimedia (MM)",
+    "month": "Oct",
+    "doi": "http://dl.acm.org/citation.cfm?id=2806386"
+  },
+  {
+    "type": "Conference",
+    "title": "Gaze analysis of avatar-based navigation with different perspectives in 3D virtual space",
+    "author": "J. Lee, M. Cheon, S.-E. Moon, J.-S. Lee",
+    "year": "2015",
+    "booktitle": "Int. Conf. Human-Agent Interaction (HAI)",
+    "month": "Oct",
+    "doi": "http://dl.acm.org/citation.cfm?id=2814981"
+  },
+  {
+    "type": "Conference",
+    "title": "EEG analysis on 3D navigation in virtual reality with different perspectives",
+    "author": "J. Lee, S.-E. Moon, M. Cheon, J.-S. Lee",
+    "year": "2015",
+    "booktitle": "Int. Conf. Human-Agent Interaction (HAI)",
+    "month": "Oct",
+    "doi": "http://dl.acm.org/citation.cfm?id=2814982"
+  },
+  {
+    "type": "Journal",
+    "title": "Data-driven integration of multiple sentiment dictionaries for lexicon-based sentiment classification of product reviews",
+    "author": "H. Cho, S. Kim, J. Lee, J.-S. Lee",
+    "year": "2014",
+    "journal": "Knowledge-Based Systems",
+    "volume": "71",
+    "pages": "61-71",
+    "month": "Nov",
+    "doi": "http://www.sciencedirect.com/science/article/pii/S0950705114002196"
+  },
+  {
+    "type": "Journal",
+    "title": "Visual-speech-pass filtering for robust automatic lip-reading",
+    "author": "J.-S. Lee",
+    "year": "2014",
+    "journal": "Pattern Analysis and Applications",
+    "volume": "17",
+    "month": "Aug",
+    "doi": "http://link.springer.com/article/10.1007%2Fs10044-013-0350-x"
+  },
+  {
+    "type": "Journal",
+    "title": "On designing paired comparison experiments for subjective multimedia quality assessment",
+    "author": "J.-S. Lee",
+    "year": "2014",
+    "journal": "IEEE Trans. Multimedia",
+    "volume": "16",
+    "month": "Feb",
+    "doi": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6675876"
+  },
+  {
+    "type": "Conference",
+    "title": "Objective quality comparison of 4K UHD and up-scaled 4K UHD videos",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2014",
+    "booktitle": "IEEE Int. Symp. Multimedia (ISM)",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/ISM.2014.33"
+  },
+  {
+    "type": "Conference",
+    "title": "On unequal power allocation for video communications using scalable video coding in massive MIMO systems",
+    "author": "S.-J. Kim, C.-B. Chae, J.-S. Lee",
+    "year": "2014",
+    "booktitle": "IEEE Int. Symp. Multimedia (ISM)",
+    "month": "Dec",
+    "doi": "https://doi.org/10.1109/ISM.2014.32"
+  },
+  {
+    "type": "Conference",
+    "title": "Classifying perceptual experience of tone-mapped high dynamic range videos through EEG",
+    "author": "S.-E. Moon, J.-S. Lee",
+    "year": "2014",
+    "booktitle": "ACM Multimedia (MM), Workshop on Perception-inspired Video Processing (PIVP)",
+    "month": "Nov",
+    "doi": "http://dl.acm.org/citation.cfm?id=2663010"
+  },
+  {
+    "type": "Conference",
+    "title": "EEG correlates during video quality perception",
+    "author": "E. Kroupi, P. Hanhart, J.-S. Lee, M. Rerabek, T. Ebrahimi",
+    "year": "2014",
+    "booktitle": "European Signal Processing Conf. (EUSIPCO)",
+    "month": "Sep",
+    "doi": "https://ieeexplore.ieee.org/document/6952767/"
+  },
+  {
+    "type": "Conference",
+    "title": "On the impact of layer-splitting for cloud-based SVC streaming",
+    "author": "S. Moon, C. Jung, J.-S. Lee, S. Kim",
+    "year": "2014",
+    "booktitle": "Int. Conf. Future Internet of Things and Cloud (FiCloud)",
+    "month": "Aug",
+    "doi": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6984197"
+  },
+  {
+    "type": "Conference",
+    "title": "Comparative analysis of online 2-D and 3-D video sharing",
+    "author": "S. Jang, J.-S. Lee",
+    "year": "2014",
+    "booktitle": "IEEE Int. Conf. Multimedia and Expo (ICME), Int. Workshop on Hot Topics in 3D (Hot3D)",
+    "month": "Jul",
+    "doi": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6890574"
+  },
+  {
+    "type": "Conference",
+    "title": "Predicting subjective sensation of reality during multimedia consumption based on EEG and peripheral physiological signals",
+    "author": "E. Kroupi, P. Hanhart, J.-S. Lee, M. Rerabek, T. Ebrahimi",
+    "year": "2014",
+    "booktitle": "Int. Conf. Multimedia and Expo (ICME)",
+    "month": "Jul",
+    "doi": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6890239"
+  },
+  {
+    "type": "Conference",
+    "title": "Quality assessment of on-line videos using metadata",
+    "author": "C.-H. Han, J.-S Lee",
+    "year": "2014",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "doi": "http://dx.doi.org/10.1109/ICASSP.2014.6853824"
+  },
+  {
+    "type": "Conference",
+    "title": "Audiovisual focus of attention and its application to UHD video compression",
+    "author": "M. Rerabek, H. Nemoto, J.-S. Lee, T. Ebrahimi",
+    "year": "2014",
+    "booktitle": "SPIE Electronic Imaging (invited)",
+    "month": "Feb",
+    "doi": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1838209"
+  },
+  {
+    "type": "Conference",
+    "title": "User-independent classification of 2D versus 3D multimedia experiences through EEG and physiological signals",
+    "author": "E. Kroupi, P. Hanhart, J.-S. Lee, M. Rerabek, T. Ebrahimi",
+    "year": "2014",
+    "booktitle": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM) (invited)",
+    "month": "Jan",
+    "doi": "https://infoscience.epfl.ch/record/197071/"
+  },
+  {
+    "type": "Conference",
+    "title": "EvoTunes: Crowdsourcing-based music recommendation",
+    "author": "J.-H. Choi, J.-S. Lee",
+    "year": "2014",
+    "booktitle": "Int. Conf. Multimedia Modeling (MMM), LNCS vol. 8325",
+    "volume": "8325",
+    "pages": "331-338",
+    "month": "Jan",
+    "doi": "http://link.springer.com/chapter/10.1007%2F978-3-319-04117-9_32"
+  },
+  {
+    "type": "Book Chapter",
+    "title": "Quality assessment of mobile videos",
+    "author": "M. Cheon, S.-J. Kim, C.-B. Chae, J.-S. Lee",
+    "year": "2014",
+    "booktitle": "Visual Signal Quality Assessment, C. Deng, L. Ma, W. Lin, and K. N. Ngan (eds.)",
+    "doi": "http://link.springer.com/chapter/10.1007/978-3-319-10368-6_4"
+  },
+  {
+    "type": "Journal",
+    "title": "Paired comparison-based subjective quality assessment of stereoscopic images",
+    "author": "J.-S. Lee, L. Goldmann, T. Ebrahimi",
+    "year": "2013",
+    "journal": "Multimedia Tools and Applications",
+    "volume": "67",
+    "month": "Nov",
+    "doi": "http://link.springer.com/article/10.1007%2Fs11042-012-1011-6"
+  },
+  {
+    "type": "Journal",
+    "title": "Parametric estimation of structural similarity degradation for video transmission over error-prone networks",
+    "author": "Y. Kwon, J.-S. Lee",
+    "year": "2013",
+    "journal": "Electronics Letters",
+    "volume": "49",
+    "month": "Aug",
+    "doi": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6587648"
+  },
+  {
+    "type": "Conference",
+    "title": "Gaze pattern analysis for video contents with different frame rates",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2013",
+    "booktitle": "IEEE Int. Conf. Visual Communications and Image Processing (VCIP)",
+    "month": "Nov",
+    "doi": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6706429"
+  },
+  {
+    "type": "Conference",
+    "title": "Multimedia communications with large-scale antennas",
+    "author": "S.-J. Kim, J.-S. Lee, C. B. Chae",
+    "year": "2013",
+    "booktitle": "IFAC Symposium on Telematics Applications",
+    "month": "Nov",
+    "doi": "https://doi.org/10.3182/20131111-3-KR-2043.00026"
+  },
+  {
+    "type": "Conference",
+    "title": "Enhancing lexicon-based review classification by merging and revising sentiment dictionaries",
+    "author": "H. Cho, J.-S. Lee, S. Kim",
+    "year": "2013",
+    "booktitle": "Int. Joint Conf. Natural Language Processing (IJCNLP)",
+    "month": "Oct"
+  },
+  {
+    "type": "Conference",
+    "title": "Gaze pattern analysis for audio-visual contents under the presence of video transmission errors",
+    "author": "M. Cheon, J.-S. Lee",
+    "year": "2013",
+    "booktitle": "IEEE Int. Conf. Multimedia & Expo (ICME), Workshop on Emerging Multimedia Systems and Services (EMSA)",
+    "month": "Jul",
+    "doi": "http://dx.doi.org/10.1109/ICMEW.2013.6618423"
+  },
+  {
+    "type": "Conference",
+    "title": "Paired comparison for subjective multimedia quality assessment: theory and practice",
+    "author": "J.-S. Lee",
+    "year": "2013",
+    "booktitle": "IEEE Int. Symp. Circuits and Systems (ISCAS)",
+    "doi": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6572042"
+  },
+  {
+    "type": "Book",
+    "title": "Social Media Retrieval",
+    "author": "N. Ramzan, R. van Zwol, J.-S. Lee, K. Cluever, X.-S. Hua (editors)",
+    "year": "2013",
+    "booktitle": "Springer, 2013",
+    "doi": "http://dx.doi.org/10.1007/978-1-4471-4555-4"
+  },
+  {
+    "type": "Book Chapter",
+    "title": "Geotag propagation with user trust modeling",
+    "author": "I. Ivanov, P. Vajda, J.-S. Lee, P. Korshunov, T. Ebrahimi",
+    "year": "2013",
+    "booktitle": "Social Media Retrieval, N. Ramzan, R. van Zwol, J.-S. Lee, K. Cluever, and X.-S. Hua (eds.)",
+    "doi": "http://link.springer.com/chapter/10.1007/978-1-4471-4555-4_13"
+  },
+  {
+    "type": "Book Chapter",
+    "title": "Towards emotional annotation of multimedia contents",
+    "author": "A. Yazdani, J.-S. Lee, T. Ebrahimi",
+    "year": "2013",
+    "booktitle": "Social Media Retrieval, N. Ramzan, R. van Zwol, J.-S. Lee, K. Cluever, and X.-S. Hua (eds.)",
+    "doi": "http://link.springer.com/chapter/10.1007/978-1-4471-4555-4_11"
+  },
+  {
+    "type": "Book Chapter",
+    "title": "Theory and applications of hybrid simulated annealing",
+    "author": "J.-S. Lee, C. H. Park, T. Ebrahimi",
+    "year": "2013",
+    "booktitle": "Handbook of Optimization, I. Zelinka, V. Snasel, and A. Abraham (eds.)",
+    "doi": "http://link.springer.com/chapter/10.1007/978-3-642-30504-7_16"
+  },
+  {
+    "type": "Journal",
+    "title": "Perceptual video compression: a survey",
+    "author": "J.-S. Lee, T. Ebrahimi",
+    "year": "2012",
+    "journal": "IEEE Journal of Selected Topics in Signal Processing",
+    "volume": "6",
+    "month": "Oct",
+    "doi": "http://dx.doi.org/10.1109/JSTSP.2012.2215006"
+  },
+  {
+    "type": "Journal",
+    "title": "Quality assessment of multidimensional video scalability",
+    "author": "J.-S. Lee, F. De Simone, N. Ramzan, E. Izquierdo, T. Ebrahimi",
+    "year": "2012",
+    "journal": "IEEE Communications Magazine",
+    "volume": "50",
+    "month": "Apr",
+    "doi": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6178832"
+  },
+  {
+    "type": "Journal",
+    "title": "Affect recognition based on physiological changes during the watching of music video: database, methodology and evaluation",
+    "author": "A. Yazdani, J.-S. Lee, J.-M. Vesin, T. Ebrahimi",
+    "year": "2012",
+    "journal": "ACM Trans. Interactive Intelligent Systems",
+    "volume": "2",
+    "month": "Mar",
+    "doi": "http://dl.acm.org/citation.cfm?id=2133373&CFID=71455465&CFTOKEN=90959453"
+  },
+  {
+    "type": "Journal",
+    "title": "In tags we trust",
+    "author": "I. Ivanov, P. Vajda, J.-S. Lee, T. Ebrahimi",
+    "year": "2012",
+    "journal": "IEEE Signal Processing Magazine",
+    "volume": "29",
+    "month": "Mar",
+    "doi": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6153150"
+  },
+  {
+    "type": "Journal",
+    "title": "DEAP: a database for emotion analysis using physiological signals",
+    "author": "S. Koelstra, C. Muehl, M. Soleymani, J.-S. Lee, A. Yazdani, T. Ebrahimi, T. Pun, A. Nijholt, I. Patras",
+    "year": "2012",
+    "journal": "IEEE Trans. Affective Computing",
+    "volume": "3",
+    "month": "Mar",
+    "doi": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5871728"
+  },
+  {
+    "type": "Journal",
+    "title": "Geotag propagation in social networks based on user trust model",
+    "author": "I. Ivanov, P. Vajda, J.-S. Lee, L. Goldmann, T. Ebrahimi",
+    "year": "2012",
+    "journal": "Multimedia Tools and Applications",
+    "volume": "56",
+    "month": "Jan",
+    "doi": "http://infoscience.epfl.ch/record/149438"
+  },
+  {
+    "type": "Conference",
+    "title": "Quality perception of coding artifacts and packet loss in networked video communications",
+    "author": "S.-J. Kim, C.-B. Chae, J.-S. Lee",
+    "year": "2012",
+    "booktitle": "IEEE Globecom, Workshop on Quality of Experience for Multimedia Communications (QoEMC)",
+    "month": "Dec",
+    "doi": "http://dx.doi.org/10.1109/GLOCOMW.2012.6477780"
+  },
+  {
+    "type": "Conference",
+    "title": "Comparison of objective quality metrics on the scalable extension of H.264/AVC",
+    "author": "J.-S. Lee",
+    "year": "2012",
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)",
+    "month": "Sep",
+    "doi": "http://dx.doi.org/10.1109/ICIP.2012.6466954"
+  },
+  {
+    "type": "Conference",
+    "title": "TrueSkill-based pairwise coupling for multi-class classification",
+    "author": "J.-S. Lee",
+    "year": "2012",
+    "booktitle": "Int. Conf. Artificial Neural Networks (ICANN), LNCS vol. 7553",
+    "volume": "7553",
+    "pages": "213-220",
+    "month": "Sep",
+    "doi": "http://dx.doi.org/10.1007/978-3-642-33266-1_27"
+  },
+  {
+    "type": "Journal",
+    "title": "Epitomize your photos",
+    "author": "P. Vajda, I. Ivanov, J.-S. Lee, T. Ebrahimi",
+    "year": "2011",
+    "journal": "International Journal of Computer Games Technology",
+    "volume": "2011",
+    "month": "Dec",
+    "doi": "http://dx.doi.org/10.1155/2011/706893"
+  },
+  {
+    "type": "Journal",
+    "title": "Subjective quality evaluation of foveated video coding using audio-visual focus of attention",
+    "author": "J.-S. Lee, F. De Simone, T. Ebrahimi",
+    "year": "2011",
+    "journal": "IEEE Journal of Selected Topics in Signal Processing",
+    "volume": "5",
+    "month": "Nov",
+    "doi": "http://dx.doi.org/10.1109/JSTSP.2011.2165199"
+  },
+  {
+    "type": "Journal",
+    "title": "Efficient video coding based on audio-visual focus of attention",
+    "author": "J.-S. Lee, F. De Simone, T. Ebrahimi",
+    "year": "2011",
+    "journal": "Journal of Visual Communication and Image Representation",
+    "volume": "22",
+    "month": "Nov",
+    "doi": "http://dx.doi.org/10.1016/j.jvcir.2010.11.002"
+  },
+  {
+    "type": "Journal",
+    "title": "Towards high efficiency video coding: subjective evaluation of potential coding technologies",
+    "author": "F. De Simone, L. Goldmann, J.-S. Lee, T. Ebrahimi",
+    "year": "2011",
+    "journal": "Journal of Visual Communication and Image Representation",
+    "volume": "22",
+    "month": "Nov",
+    "doi": "http://dx.doi.org/10.1016/j.jvcir.2011.01.008"
+  },
+  {
+    "type": "Journal",
+    "title": "Subjective quality evaluation via paired comparison: application to scalable video coding",
+    "author": "J.-S. Lee, F. De Simone, T. Ebrahimi",
+    "year": "2011",
+    "journal": "IEEE Trans. Multimedia",
+    "volume": "13",
+    "month": "Oct",
+    "doi": "http://dx.doi.org/10.1109/TMM.2011.2157333"
+  },
+  {
+    "type": "Conference",
+    "title": "A new analysis method for paired comparison and its application to 3D quality assessment",
+    "author": "J.-S. Lee, L. Goldmann, T. Ebrahimi",
+    "year": "2011",
+    "booktitle": "ACM Multimedia (MM)",
+    "month": "Nov",
+    "doi": "http://doi.org/10.1145/2072298.2071994"
+  },
+  {
+    "type": "Conference",
+    "title": "Motion parallax based restitution of 3D images on legacy consumer mobile devices",
+    "author": "M. Rerabek, L. Goldmann, J.-S. Lee, T. Ebrahimi",
+    "year": "2011",
+    "booktitle": "IEEE Int. Workshop on Multimedia Signal Processing (MMSP)",
+    "month": "Oct",
+    "doi": "http://dx.doi.org/10.1109/MMSP.2011.6093789"
+  },
+  {
+    "type": "Conference",
+    "title": "Subjective quality assessment of scalable video coding: a survey",
+    "author": "J.-S. Lee, F. De Simone, T. Ebrahimi",
+    "year": "2011",
+    "booktitle": "Int. Workshop on Quality of Multimedia Experience (QoMEX)",
+    "month": "Sep",
+    "doi": "http://dx.doi.org/10.1109/QoMEX.2011.6065707"
+  },
+  {
+    "type": "Conference",
+    "title": "Performance analysis of VP8 image and video compression based on subjective evaluations",
+    "author": "F. De Simone, L. Goldmann, J.-S. Lee, T. Ebrahimi",
+    "year": "2011",
+    "booktitle": "Proc. SPIE",
+    "volume": "8135",
+    "month": "Aug",
+    "doi": "http://dx.doi.org/10.1117/12.896313"
+  },
+  {
+    "type": "Conference",
+    "title": "Audio-visual synchronization recovery in multimedia content",
+    "author": "J.-S. Lee, T. Ebrahimi",
+    "year": "2011",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+    "doi": "http://dx.doi.org/10.1109/ICASSP.2011.5946937"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Scalable video database (SVD)",
+    "link": "http://mmspg.epfl.ch/svd",
+    "isExternal": true
+  },
+  {
+    "title": "Database for emotion analysis using physiological signals (DEAP)",
+    "link": "http://www.eecs.qmul.ac.uk/mmv/datasets/deap/",
+    "isExternal": true
+  },
+  {
+    "title": "Multi-dimensional Cauchy random number generator",
+    "link": "/downloads/cauchyn",
+    "isExternal": false
+  },
+  {
+    "title": "Database for video quality assessment of compression and packet loss artifacts",
+    "link": "ftp://1.233.219.115/Database/2012/",
+    "isExternal": true
+  },
+  {
+    "title": "Modeling immersive media experience by sensing impact on subjects (MIMESIS)",
+    "link": "http://mmspg.epfl.ch/mimesis",
+    "isExternal": true
+  },
+  {
+    "title": "YFCC100M video metadata database",
+    "link": "/downloads/yfcc100mvideos",
+    "isExternal": false
+  },
+  {
+    "title": "Physiological responses of tone-mapped HDR video database",
+    "link": "/downloads/hdrtone",
+    "isExternal": false
+  },
+  {
+    "title": "4K UHD video quality database",
+    "link": "https://github.com/manricheon/MCML-4K-UHD-video-quality-database",
+    "isExternal": true
+  }
+]
