@@ -6,6 +6,7 @@ import { Geist } from "next/font/google";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import { Separator } from "@/components/ui/separator";
+import { ThemeProvider } from "./components/ThemeProvider";
 
 const pretendard = localFont({
   src: "./fonts/PretendardVariable.woff2",
@@ -34,10 +35,14 @@ export const metadata: Metadata = {
     "Yonsei University",
     "연세대학교",
     "연세대",
+    "College of Computing",
     "School of Integrated Technology",
-    "융합과학공학부",
+    "첨단융합공학부",
+    "글로벌융합공학부",
+    "글로벌융합공학과",
     "Department of Artificial Intelligence",
     "인공지능학과",
+    "인공지능융합대학",
 
     // Professor
     "Jong-Seok Lee",
@@ -55,6 +60,21 @@ export const metadata: Metadata = {
     "인공지능",
     "HCI",
     "인간컴퓨터상호작용",
+    "멀티모달 딥러닝",
+    "Explainable AI",
+    "Responsible AI",
+    "Efficient AI",
+    "Brain-Computer Interfaces",
+    "Dynamic Vision Sensors",
+    "Multimodal Deep Learning",
+    "Safe Image Generation",
+    "Machine Unlearning",
+    "Event Camera",
+    "Learned Image Compression",
+    "Knowledge Distillation",
+    "Adversarial Robustness",
+    "Aesthetic Assessment",
+    "EEG-based Emotional Video Classification",
 
     // Lab Related
     "Research Lab",
@@ -95,15 +115,22 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${pretendard.variable} ${geist.variable} font-pretendard`}
       >
-        <Navbar />
-        <div className="h-16"></div>
-        {children}
-        <Separator />
-        <Footer />
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <Navbar />
+          <div className="h-16"></div>
+          {children}
+          <Separator />
+          <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );

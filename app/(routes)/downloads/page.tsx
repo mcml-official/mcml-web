@@ -16,12 +16,12 @@ export default function Downloads() {
               href={item.link}
               target={item.isExternal ? "_blank" : "_self"}
               rel={item.isExternal ? "noopener noreferrer" : ""}
-              className="group flex items-start transition-colors hover:text-blue-600"
+              className="group flex items-start hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400"
             >
               {item.isExternal ? (
-                <ExternalLink className="mt-0.5 mr-3 h-5 w-5 flex-shrink-0 text-gray-400 group-hover:text-blue-600" />
+                <ExternalLink className="mt-0.5 mr-3 h-5 w-5 flex-shrink-0 text-gray-400 group-hover:text-blue-600 dark:text-gray-600 dark:group-hover:text-blue-400" />
               ) : (
-                <div className="mt-0.5 mr-3 h-5 w-5 flex-shrink-0 rounded-full border-2 border-gray-400 group-hover:border-blue-600"></div>
+                <div className="mt-0.5 mr-3 h-5 w-5 flex-shrink-0 rounded-full border-2 border-gray-400 group-hover:border-blue-600 dark:border-gray-600 dark:group-hover:border-blue-400"></div>
               )}
               <span className="text-lg">{item.title}</span>
             </a>

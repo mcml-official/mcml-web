@@ -14,6 +14,7 @@ import { Menu } from "lucide-react";
 import { useState } from "react";
 import { navigationItems } from "../lib/navigation";
 import logo from "../images/mcml_color_h_detail.svg";
+import logoDark from "../images/mcml_white_h_detail.svg";
 import Image from "next/image";
 
 export default function Sidebar() {
@@ -32,7 +33,13 @@ export default function Sidebar() {
             <Image
               src={logo}
               alt="MCML Group"
-              className="h-6 w-auto"
+              className="h-6 w-auto dark:hidden"
+              priority
+            />
+            <Image
+              src={logoDark}
+              alt="MCML Group"
+              className="hidden h-6 w-auto dark:block"
               priority
             />
           </SheetTitle>

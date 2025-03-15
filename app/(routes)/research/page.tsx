@@ -14,16 +14,16 @@ export default function Research() {
             <div key={index} className="relative">
               <div className="mb-6 flex items-center">
                 <div className="relative -top-30" id={`topic-${index}`} />
-                <div className="mr-4 rounded-full bg-gray-50 p-3">
-                  <area.icon className="h-6 w-6 text-gray-700" />
+                <div className="mr-4 rounded-full bg-gray-50 p-3 dark:bg-gray-800">
+                  <area.icon className="h-6 w-6 text-gray-700 dark:text-gray-300" />
                 </div>
-                <h2 className="text-2xl font-semibold text-gray-900">
+                <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100">
                   {area.title}
                 </h2>
               </div>
 
               {area.description && (
-                <p className="mb-8 px-3 leading-relaxed text-gray-600 md:ml-16 md:px-0">
+                <p className="mb-8 px-3 leading-relaxed text-gray-600 md:ml-16 md:px-0 dark:text-gray-400">
                   {area.description}
                 </p>
               )}
@@ -36,14 +36,14 @@ export default function Research() {
                       className="border-l-2 border-gray-200 pl-3 md:pl-6"
                     >
                       <div className="mb-3 flex items-center">
-                        <div className="mr-3 rounded-full bg-gray-50 p-2">
-                          <subArea.icon className="h-4 w-4 text-gray-700" />
+                        <div className="mr-3 rounded-full bg-gray-50 p-2 dark:bg-gray-800">
+                          <subArea.icon className="h-4 w-4 text-gray-700 dark:text-gray-300" />
                         </div>
-                        <h3 className="text-xl font-medium text-gray-900">
+                        <h3 className="text-xl font-medium text-gray-900 dark:text-gray-100">
                           {subArea.title}
                         </h3>
                       </div>
-                      <p className="ml-10 leading-relaxed text-gray-600">
+                      <p className="ml-10 leading-relaxed text-gray-600 dark:text-gray-400">
                         {subArea.description}
                       </p>
                     </div>

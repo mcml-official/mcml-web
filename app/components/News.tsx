@@ -17,8 +17,8 @@ export default function News() {
             disabled={page === 1}
             className={`flex h-8 w-8 items-center justify-center rounded hover:cursor-pointer ${
               page === 1
-                ? "bg-gray-100 text-gray-400"
-                : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                ? "bg-gray-100 text-gray-400 dark:bg-gray-800 dark:text-gray-600"
+                : "bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700"
             }`}
             aria-label="Previous page"
           >
@@ -29,8 +29,8 @@ export default function News() {
             disabled={page === totalPages}
             className={`flex h-8 w-8 items-center justify-center rounded hover:cursor-pointer ${
               page === totalPages
-                ? "bg-gray-100 text-gray-400"
-                : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                ? "bg-gray-100 text-gray-400 dark:bg-gray-800 dark:text-gray-600"
+                : "bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700"
             }`}
             aria-label="Next page"
           >
@@ -44,7 +44,7 @@ export default function News() {
             key={index}
             className="flex flex-col items-start gap-4 border-l-4 border-[#1f3566] pl-4 md:flex-row"
           >
-            <div className="min-w-[80px] text-sm text-gray-600">
+            <div className="min-w-[80px] text-sm text-gray-600 dark:text-gray-400">
               {item.date}
             </div>
             <div>

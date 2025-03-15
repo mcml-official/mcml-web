@@ -63,8 +63,10 @@ export default function Publications() {
                       {groupedPublications[year][type].map((pub, index) => (
                         <div key={index} className="mb-4">
                           <p className="font-medium">{pub.title}</p>
-                          <p className="text-gray-600">{pub.author}</p>
-                          <p className="text-gray-600">
+                          <p className="text-gray-600 dark:text-gray-400">
+                            {pub.author}
+                          </p>
+                          <p className="text-gray-600 dark:text-gray-400">
                             {pub.journal || pub.booktitle}
                             {pub.volume && `, ${pub.volume}`}
                             {pub.pages && `, pp. ${pub.pages}`}
