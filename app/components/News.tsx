@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import news from "../news.json";
+import news from "@/app/data/news.json";
 
 export default function News() {
   const [page, setPage] = useState(1);
