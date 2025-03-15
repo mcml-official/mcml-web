@@ -29,7 +29,7 @@ export default function Research() {
               )}
 
               {area.subAreas && (
-                <div className="ml-6 space-y-8 md:ml-16">
+                <div className="space-y-8 pl-6 md:ml-16">
                   {area.subAreas.map((subArea, subIndex) => (
                     <div
                       key={subIndex}

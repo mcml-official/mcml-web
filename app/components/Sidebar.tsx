@@ -23,7 +23,7 @@ export default function Sidebar() {
   return (
     <Sheet open={open} onOpenChange={setOpen}>
       <SheetTrigger asChild>
-        <Button variant="outline" size="default" className="md:hidden">
+        <Button variant="outline" size="icon" className="lg:hidden">
           <Menu />
         </Button>
       </SheetTrigger>

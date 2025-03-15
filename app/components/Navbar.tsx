@@ -10,7 +10,7 @@ import logo_dark from "../images/mcml_white_h_detail.svg";
 export default function Navbar() {
   return (
     <nav className="bg-background fixed top-0 left-0 z-10 h-16 w-full shadow-md">
-      <div className="mx-auto flex h-full max-w-6xl items-center justify-between p-4 md:px-8">
+      <div className="mx-auto flex h-full max-w-6xl items-center justify-between p-4 lg:px-8">
         <Link href="/" className="block h-full">
           <Image
             src={logo_dark}
@@ -25,7 +25,7 @@ export default function Navbar() {
             className="h-full w-auto dark:hidden"
           />
         </Link>
-        <ul className="hidden h-full items-center justify-between gap-8 text-lg md:flex">
+        <ul className="hidden h-full items-center justify-between gap-8 text-lg lg:flex">
           {navigationItems.map((item) => (
             <li key={item.href}>
               <NavLink href={item.href}>{item.label}</NavLink>
