@@ -32,7 +32,7 @@ export default function Navbar() {
             </li>
           ))}
         </ul>
-        <ul className="ml-auto flex items-center gap-2 lg:gap-0">
+        <ul className="ml-auto flex items-center gap-2 lg:ml-8 lg:gap-0">
           <li>
             <ModeToggle />
           </li>
