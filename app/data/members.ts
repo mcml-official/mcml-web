@@ -77,7 +77,7 @@ export const members: Member[] = [
     name: "Jiyun Kong",
     role: "M.S. Student",
     image: "/members/jiyun_kong.jpeg",
-    interests: ["Computer Vision"],
+    interests: ["Dynamic Vision Sensors"],
     email: "jiyun.kong@yonsei.ac.kr",
   },
   {

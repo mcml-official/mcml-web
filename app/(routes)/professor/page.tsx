@@ -41,7 +41,7 @@ export default function Professor() {
           <p>
             <strong>Email:</strong>{" "}
             <a
-              href="mailto:jongseok.lee@yonsei.ac.kr"
+              href="mailto:jong-seok.lee@yonsei.ac.kr"
               className="underline transition-colors hover:text-[#1f3566]"
             >
               jongseok.lee@yonsei.ac.kr
