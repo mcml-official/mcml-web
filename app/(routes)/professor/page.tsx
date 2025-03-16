@@ -44,7 +44,7 @@ export default function Professor() {
               href="mailto:jong-seok.lee@yonsei.ac.kr"
               className="underline transition-colors hover:text-[#1f3566]"
             >
-              jongseok.lee@yonsei.ac.kr
+              jong-seok.lee@yonsei.ac.kr
             </a>
           </p>
 
