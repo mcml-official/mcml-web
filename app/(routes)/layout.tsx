@@ -20,7 +20,7 @@ export default function SubpageLayout({
   return (
     <>
       <div className="hidden h-30 bg-[url('images/landing.jpg')] bg-cover bg-center md:block">
-        <h1 className="grid h-full place-content-center bg-black/30 text-4xl font-bold text-white">
+        <h1 className="grid h-full place-content-center bg-black/30 text-4xl font-semibold text-white">
           {formattedTitle}
         </h1>
       </div>

@@ -10,7 +10,7 @@ export default function News() {
   return (
     <section>
       <div className="mb-8 flex items-center justify-between">
-        <h2 className="text-3xl font-bold">News</h2>
+        <h2 className="text-3xl font-semibold">News</h2>
         <div className="flex gap-2">
           <button
             onClick={() => setPage(Math.max(1, page - 1))}

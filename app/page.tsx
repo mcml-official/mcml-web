@@ -28,7 +28,7 @@ export default function Home() {
 
       <main className="mx-auto max-w-6xl space-y-32 px-4 py-16">
         <section>
-          <h2 className="mb-8 text-3xl font-bold">Research Areas</h2>
+          <h2 className="mb-8 text-3xl font-semibold">Research Areas</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {researchAreas.map((topic, index) => (
               <div key={index}>
