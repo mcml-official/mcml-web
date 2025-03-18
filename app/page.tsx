@@ -6,12 +6,12 @@ import { researchAreas } from "@/app/data/researchAreas";
 export default function Home() {
   return (
     <>
-      <header className="h-[80vh] max-h-[540px] bg-[url('images/landing.jpg')] bg-cover bg-center text-center bg-blend-multiply dark:bg-black/50">
-        <div className="mx-auto max-w-4xl pt-16 text-[#1e2d4c] dark:text-white">
-          <h1 className="text-3xl font-medium md:text-4xl">
+      <header className="h-[60vh] max-h-[540px] bg-[url('images/landing.jpg')] bg-cover bg-center text-center bg-blend-multiply dark:bg-black/50">
+        <div className="mx-auto max-w-4xl pt-8 text-[#1e2d4c] transition-all sm:pt-16 dark:text-white">
+          <h1 className="text-3xl font-medium lg:text-4xl">
             Multimedia Computing & Machine Learning Group
           </h1>
-          <p className="text-lg md:text-xl">
+          <p className="text-lg lg:text-xl">
             led by{" "}
             <Link
               href="/professor"
@@ -20,7 +20,7 @@ export default function Home() {
               Prof. Jong-Seok Lee
             </Link>
           </p>
-          <p className="text-sm md:text-base">
+          <p className="text-sm lg:text-base">
             School of Integrated Technology, Yonsei University
           </p>
         </div>
