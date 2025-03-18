@@ -107,6 +107,9 @@ export const metadata: Metadata = {
       "Multimedia Computing and Machine Learning (MCML) Group at Yonsei University",
     siteName: "MCML Group",
   },
+  verification: {
+    google: "m1b64rK-TQFjzUaXKvw45jFQdAX9Xpye5zeqWi7S5YM",
+  },
 };
 
 export default function RootLayout({
