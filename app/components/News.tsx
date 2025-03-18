@@ -42,7 +42,7 @@ export default function News() {
         {news.slice((page - 1) * 10, page * 10).map((item, index) => (
           <div
             key={index}
-            className="flex flex-col items-start gap-4 border-l-4 border-[#1f3566] pl-4 md:flex-row dark:border-white"
+            className="flex flex-col items-start gap-4 border-l-4 border-[#1f3566] pl-4 md:flex-row dark:border-gray-200"
           >
             <div className="min-w-[80px] text-sm text-gray-600 dark:text-gray-400">
               {item.date}

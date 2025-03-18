@@ -29,12 +29,12 @@ export default function Home() {
       <main className="mx-auto max-w-6xl space-y-32 px-4 py-16">
         <section>
           <h2 className="mb-8 text-3xl font-bold">Research Areas</h2>
-          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {researchAreas.map((topic, index) => (
               <div key={index}>
                 <Link
                   href={`/research#topic-${index}`}
-                  className={`group block rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg ${topic.borderColor}`}
+                  className={`group block h-full rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg ${topic.borderColor}`}
                 >
                   <div className="mb-4 flex items-center gap-3">
                     <div
