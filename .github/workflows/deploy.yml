@@ -14,5 +14,4 @@ jobs:
         with:
           node-version: 18
       - run: yarn install
-      - run: pm2 kill web
-      - run: pm2 start "yarn start" --name web
+      - run: pm2 restart web
