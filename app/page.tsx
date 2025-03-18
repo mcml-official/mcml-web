@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <header className="h-[80vh] max-h-[540px] bg-[url('images/landing.jpg')] bg-cover bg-center text-center bg-blend-multiply dark:bg-black/50">
-        <div className="mx-auto max-w-4xl pt-16 text-[#1e2d4c]">
+        <div className="mx-auto max-w-4xl pt-16 text-[#1e2d4c] dark:text-white">
           <h1 className="text-3xl font-medium md:text-4xl">
             Multimedia Computing & Machine Learning Group
           </h1>
