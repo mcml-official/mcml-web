@@ -104,6 +104,12 @@ export const alumni: AlumniMember[] = [
     website: "https://j-h-hwang.github.io/",
   },
   { name: "Hyungkeun Park", role: "M.S." },
+  { name: "Jin-Woo Park", role: "M.S." },
+  { 
+    name: "Junhyuk Park", 
+    role: "M.S.",
+    website: "http://parkjunhyuk.com/",
+  },
   { name: "Hojung Lee", role: "Ph.D." },
   { name: "Jin Lee", role: "M.S." },
   { name: "Hyeongnam Jang", role: "Ph.D." },
