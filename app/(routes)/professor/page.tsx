@@ -3,6 +3,8 @@ import profImage from "@/public/members/professor_lee2.jpg";
 import { GraduationCap } from "lucide-react";
 import { Metadata } from "next";
 import Image from "next/image";
+import { MailButton } from "./MailButton";
+import { PhoneButton } from "./PhoneButton";
 
 export const metadata: Metadata = {
   title: "Professor",
@@ -28,7 +30,7 @@ export default function Professor() {
           <p>School of Integrated Technology, Yonsei University</p>
           <p>Department of Artificial Intelligence, Yonsei University</p>
 
-          <p className="my-2">
+          <div className="mt-2 flex flex-wrap gap-4">
             <a
               href="https://scholar.google.com/citations?user=YGwwt6cAAAAJ"
               target="_blank"
@@ -36,27 +38,9 @@ export default function Professor() {
             >
               <GraduationCap className="mr-1 h-4 w-4" /> Google Scholar
             </a>
-          </p>
-
-          <p>
-            <strong>Email:</strong>{" "}
-            <a
-              href="mailto:jong-seok.lee@yonsei.ac.kr"
-              className="underline transition-colors hover:text-[#1f3566]"
-            >
-              jong-seok.lee@yonsei.ac.kr
-            </a>
-          </p>
-
-          <p>
-            <strong>Phone:</strong>{" "}
-            <a
-              href="tel:+82-32-749-5846"
-              className="underline transition-colors hover:text-[#1f3566]"
-            >
-              +82-32-749-5846
-            </a>
-          </p>
+            <MailButton />
+            <PhoneButton />
+          </div>
         </section>
 
         <Separator className="my-8" />

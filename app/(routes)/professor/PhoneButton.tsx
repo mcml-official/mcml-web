@@ -1,31 +1,21 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Mail, Copy } from "lucide-react";
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
+import { Copy, Phone } from "lucide-react";
 import { useState } from "react";
 
-interface EmailButtonProps {
-  email: string;
-}
-
-export function EmailButton({ email }: EmailButtonProps) {
-  const [copied, setCopied] = useState(false);
+export function PhoneButton() {
   const [isOpen, setIsOpen] = useState(false);
-
-  const handleEmailClick = (e: React.MouseEvent) => {
-    e.preventDefault();
-    const mailtoUrl = `mailto:${email}`;
-    window.open(mailtoUrl, "_blank");
-  };
+  const [copied, setCopied] = useState(false);
 
   const handleCopyClick = async () => {
     try {
-      await navigator.clipboard.writeText(email);
+      await navigator.clipboard.writeText("+82-32-749-5846");
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     } catch (err) {
@@ -33,13 +23,17 @@ export function EmailButton({ email }: EmailButtonProps) {
     }
   };
 
+  const handleEmailClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    window.location.href = `tel:+82-32-749-5846`;
+  };
+
   return (
     <Popover open={isOpen} onOpenChange={setIsOpen}>
       <PopoverTrigger asChild>
-        <Button variant="outline" size="sm" className="w-full cursor-pointer">
-          <Mail className="mr-1 h-3 w-3" />
-          Email
-        </Button>
+        <p className="inline-flex cursor-pointer items-center text-blue-500 transition-colors hover:text-blue-600">
+          <Phone className="mr-1 h-4 w-4" /> Phone
+        </p>
       </PopoverTrigger>
       <PopoverContent className="w-auto p-2">
         <div className="flex flex-col gap-2">
@@ -59,8 +53,8 @@ export function EmailButton({ email }: EmailButtonProps) {
               className="flex-1 cursor-pointer"
               onClick={handleEmailClick}
             >
-              <Mail className="mr-1 h-3 w-3" />
-              Open Mail
+              <Phone className="mr-1 h-3 w-3" />
+              Call
             </Button>
           </div>
         </div>
