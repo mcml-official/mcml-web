@@ -119,9 +119,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body
-        className={`${pretendard.variable} ${geist.variable} font-pretendard`}
-      >
+      <body className={`${pretendard.variable} ${geist.variable}`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
