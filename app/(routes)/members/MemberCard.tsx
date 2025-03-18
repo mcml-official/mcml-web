@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
-import { Globe, Mail } from "lucide-react";
+import { Globe } from "lucide-react";
 import Image from "next/image";
+import { EmailButton } from "./EmailButton";
 
 interface Member {
   name: string;
@@ -40,12 +41,7 @@ export function MemberCard({ member }: MemberCardProps) {
           </div>
         </div>
         <div className="flex space-x-2">
-          <Button variant="outline" size="sm" className="w-full" asChild>
-            <a href={`mailto:${member.email}`} className="text-xs">
-              <Mail className="mr-1 h-3 w-3" />
-              Email
-            </a>
-          </Button>
+          <EmailButton email={member.email} />
           {member.website && (
             <Button variant="outline" size="sm" className="w-full" asChild>
               <a

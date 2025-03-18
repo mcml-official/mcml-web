@@ -7,12 +7,9 @@ export default function Home() {
   return (
     <>
       <header className="h-[80vh] max-h-[540px] bg-[url('images/landing.jpg')] bg-cover bg-center text-center bg-blend-multiply dark:bg-black/50">
-        <div className="mx-auto max-w-4xl pt-16">
+        <div className="mx-auto max-w-4xl pt-16 text-[#1e2d4c]">
           <h1 className="text-3xl font-medium md:text-4xl">
-            <span className="font-bold">M</span>ultimedia{" "}
-            <span className="font-bold">C</span>omputing &{" "}
-            <span className="font-bold">M</span>achine{" "}
-            <span className="font-bold">L</span>earning Group
+            Multimedia Computing & Machine Learning Group
           </h1>
           <p className="text-lg md:text-xl">
             led by{" "}
