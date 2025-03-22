@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import { Separator } from "@/components/ui/separator";
 import { ThemeProvider } from "./components/ThemeProvider";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const pretendard = localFont({
   src: "./fonts/PretendardVariable.woff2",
@@ -133,6 +134,7 @@ export default function RootLayout({
           <Footer />
         </ThemeProvider>
       </body>
+      <GoogleAnalytics gaId="G-0TQVHSB01W" />
     </html>
   );
 }
