@@ -71,7 +71,7 @@ export const members: Member[] = [
     role: "M.S. Student",
     image: "/members/jiyoon_kim.jpeg",
     interests: ["Generative Models"],
-    email: "jiyoon.kim@yonsei.ac.kr",
+    email: "ji-yoon.kim@yonsei.ac.kr",
   },
   {
     name: "Jiyun Kong",
