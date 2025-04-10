@@ -1,6 +1,15 @@
 [
   {
     "type": "Journal",
+    "title": "Clean-to-Clean: Pretraining Vision Transformers without Additional Data",
+    "author": "H. Lee, S. Kim, J.-S. Lee",
+    "year": "2025",
+    "journal": "Machine Vision and Applications",
+    "month": "Apr",
+    "code": "https://github.com/hjdw2/NFE"
+  },
+  {
+    "type": "Journal",
     "title": "Network fission ensembles for low-cost self-ensembles",
     "author": "H. Lee, J.-S. Lee",
     "year": "2025",
