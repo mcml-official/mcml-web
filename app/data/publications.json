@@ -1,7 +1,15 @@
 [
   {
+    "type": "Conference",
+    "title": "Sketch to stylized-image: A two-stage approach for artistic image generation",
+    "author": "J. Kim, J. Park, J.-S. Lee",
+    "year": "2025",
+    "month": "Sep",
+    "booktitle": "Int. Conf. Image Processing (ICIP)"
+  }
+  {
     "type": "Journal",
-    "title": "Clean-to-Clean: Pretraining Vision Transformers without Additional Data",
+    "title": "Clean-to-clean: Pretraining vision transformers without additional data",
     "author": "H. Lee, S. Kim, J.-S. Lee",
     "year": "2025",
     "journal": "Machine Vision and Applications",
