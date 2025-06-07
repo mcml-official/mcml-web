@@ -6,7 +6,7 @@
     "year": "2025",
     "month": "Sep",
     "booktitle": "Int. Conf. Image Processing (ICIP)"
-  }
+  },
   {
     "type": "Journal",
     "title": "Clean-to-clean: Pretraining vision transformers without additional data",
