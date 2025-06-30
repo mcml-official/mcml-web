@@ -1,6 +1,14 @@
 [
   {
     "type": "Conference",
+    "title": "Emotional EEG classification using upscaled connectivity matrices",
+    "author": "C.-W. Lee, J.-S. Lee",
+    "year": "2025",
+    "month": "Oct",
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)"
+  },
+  {
+    "type": "Conference",
     "title": "Sketch to stylized-image: A two-stage approach for artistic image generation",
     "author": "J. Kim, J. Park, J.-S. Lee",
     "year": "2025",
