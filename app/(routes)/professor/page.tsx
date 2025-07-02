@@ -48,7 +48,7 @@ export default function Professor() {
         <section>
           <h3 className="text-xl font-bold">Professional Services</h3>
           <br />
-          <ul className="space-y-2">
+          <ul className="space-y-1">
             <li>
               <strong>Senior Member</strong>, IEEE
             </li>
@@ -150,6 +150,38 @@ export default function Professor() {
             <strong>TPC member and reviewer</strong> of many journals and
             conferences
           </p>
+        </section>
+
+        <Separator className="my-8" />
+
+        <section>
+          <h3 className="text-xl font-bold">Courses</h3>
+          <br />
+
+          <h4 className="mb-2 font-bold">Undergraduate</h4>
+          <ul className="space-y-1">
+            <li>Advanced mathematics 1</li>
+            <li>Advanced mathematics 2</li>
+            <li>Signals</li>
+            <li>Digital signal processing</li>
+            <li>Cognitive acoustics</li>
+            <li>Multimedia signal processing</li>
+            <li>Deep learning</li>
+          </ul>
+
+          <br />
+
+          <h4 className="mb-2 font-bold">Graduate</h4>
+          <ul className="space-y-1">
+            <li>Machine learning</li>
+            <li>Machine learning and pattern recognition</li>
+            <li>Statistics for engineers</li>
+            <li>Statistical analysis</li>
+            <li>Graphs and complex networks</li>
+            <li>Graph and network analysis</li>
+            <li>Bio-inspired processing of cognitive signals</li>
+            <li>Advanced multimedia processing</li>
+          </ul>
         </section>
       </section>
     </main>
