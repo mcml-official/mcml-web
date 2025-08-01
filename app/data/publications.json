@@ -9,6 +9,14 @@
   },
   {
     "type": "Conference",
+    "title": "Exploring cross-stage adversarial transferability in class-incremental continual learning",
+    "author": "J. Kim, J.-S. Lee",
+    "year": "2025",
+    "month": "Sep",
+    "booktitle": "IEEE Workshop on Multimedia Signal Processing (MMSP)"
+  },
+  {
+    "type": "Conference",
     "title": "Sketch to stylized-image: A two-stage approach for artistic image generation",
     "author": "J. Kim, J. Park, J.-S. Lee",
     "year": "2025",
