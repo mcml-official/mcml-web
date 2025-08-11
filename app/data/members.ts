@@ -28,7 +28,7 @@ export const members: Member[] = [
     name: "Junha Park",
     role: "Ph.D. Student",
     image: "/members/junha_park.jpg",
-    interests: ["Deep Learning for Graph Data", "Generative Models"],
+    interests: ["Multimodal Deep Learning", "Efficient Deep Learning"],
     email: "junha.park@yonsei.ac.kr",
   },
   {
@@ -70,7 +70,7 @@ export const members: Member[] = [
     name: "Jiyoon Kim",
     role: "M.S. Student",
     image: "/members/jiyoon_kim.jpeg",
-    interests: ["Generative Models"],
+    interests: ["Memorization in Diffusion Models", "Image Editing"],
     email: "ji-yoon.kim@yonsei.ac.kr",
   },
   {
