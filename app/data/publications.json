@@ -21,7 +21,9 @@
     "author": "J. Kim, J. Park, J.-S. Lee",
     "year": "2025",
     "month": "Sep",
-    "booktitle": "Int. Conf. Image Processing (ICIP)"
+    "booktitle": "Int. Conf. Image Processing (ICIP)",
+    "doi": "https://doi.org/10.1109/ICIP55913.2025.11084678",
+    "pages": "2694-2699"
   },
   {
     "type": "Journal",
