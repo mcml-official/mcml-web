@@ -123,7 +123,7 @@ export default function RootLayout({
       <body className={`${pretendard.variable} ${geist.variable}`}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="light"
           enableSystem
           disableTransitionOnChange
         >
