@@ -95,6 +95,13 @@ export const members: Member[] = [
     interests: ["Diffusion Models"],
     email: "hayeon.jeong@yonsei.ac.kr",
   },
+  {
+    name: "Junseok Ko",
+    role: "M.S. Student",
+    image: "/members/junseok_ko.jpeg",
+    interests: ["Diffusion Models", "Flow Matching Models"],
+    email: "juniboy97@yonsei.ac.kr",
+  },
 ] as const;
 
 export const alumni: AlumniMember[] = [
