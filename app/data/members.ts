@@ -100,7 +100,7 @@ export const members: Member[] = [
     role: "M.S. Student",
     image: "/members/junseok_ko.jpeg",
     interests: ["Diffusion Models", "Flow Matching Models"],
-    email: "juniboy97@yonsei.ac.kr",
+    email: "junseok@yonsei.ac.kr",
   },
 ] as const;
 
