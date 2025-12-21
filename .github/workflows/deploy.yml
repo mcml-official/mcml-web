@@ -16,4 +16,5 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: cp -r public .next/standalone/public
+      - run: cp -r .next/static .next/standalone/.next/static
       - run: pm2 reload web --update-env
