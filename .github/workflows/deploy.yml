@@ -15,5 +15,5 @@ jobs:
           node-version: 18
       - run: yarn install --frozen-lockfile
       - run: yarn build
-      - run: ln -s public .next/standalone/public
+      - run: cp -r public .next/standalone/public
       - run: pm2 reload web --update-env
