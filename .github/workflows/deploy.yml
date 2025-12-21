@@ -13,5 +13,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: yarn install
-      - run: pm2 restart web
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: pm2 reload web --update-env
