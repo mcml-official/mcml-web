@@ -1,6 +1,12 @@
 [
   {
     "type": "Conference",
+    "title": "test",
+    "author": "A. Aaa, B. Bbb",
+    "year": "Preprint"
+  },
+  {
+    "type": "Conference",
     "title": "Emotional EEG classification using upscaled connectivity matrices",
     "author": "C.-W. Lee, J.-S. Lee",
     "year": "2025",
