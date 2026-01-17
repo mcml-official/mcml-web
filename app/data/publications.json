@@ -3,7 +3,8 @@
     "type": "Conference",
     "title": "test",
     "author": "A. Aaa, B. Bbb",
-    "year": "Preprint"
+    "year": "Preprint",
+    "booktitle": "arXiv"
   },
   {
     "type": "Conference",
