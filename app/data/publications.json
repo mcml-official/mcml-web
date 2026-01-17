@@ -5,7 +5,8 @@
     "author": "C.-W. Lee, J.-S. Lee",
     "year": "2025",
     "month": "Oct",
-    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)"
+    "booktitle": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+    "arxiv": "https://arxiv.org/abs/2502.07843"
   },
   {
     "type": "Conference",
@@ -13,7 +14,8 @@
     "author": "J. Kim, J.-S. Lee",
     "year": "2025",
     "month": "Sep",
-    "booktitle": "IEEE Workshop on Multimedia Signal Processing (MMSP)"
+    "booktitle": "IEEE Workshop on Multimedia Signal Processing (MMSP)",
+    "arxiv": "https://arxiv.org/abs/2508.08920"
   },
   {
     "type": "Conference",
