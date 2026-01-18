@@ -1,6 +1,13 @@
 [
   {
     "type": "Conference",
+    "title": "Training-free framework for defending unsafe image synthesis attack",
+    "author": "Junha Park, Jaehui Hwang, Ian Ryu, Hyungkeun Park, Jiyoon Kim, Jong-Seok Lee",
+    "year": "2026",
+    "month": "May",
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech, Signal Processing (ICASSP)"
+  {
+    "type": "Conference",
     "title": "Emotional EEG classification using upscaled connectivity matrices",
     "author": "C.-W. Lee, J.-S. Lee",
     "year": "2025",
