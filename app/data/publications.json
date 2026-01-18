@@ -6,6 +6,7 @@
     "year": "2026",
     "month": "May",
     "booktitle": "IEEE Int. Conf. Acoustics, Speech, Signal Processing (ICASSP)"
+  },
   {
     "type": "Conference",
     "title": "Emotional EEG classification using upscaled connectivity matrices",
