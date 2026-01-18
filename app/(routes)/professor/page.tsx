@@ -129,20 +129,25 @@ export default function Professor() {
             <br />
 
             <li>
-              <strong>Area Chair</strong>, ACM Multimedia Conference (MM)
-              2018-2025
+              <strong>Senior Area Chair</strong>, IEEE International Conference on Multimedia & Expo (ICME) 2026
             </li>
             <li>
-              <strong>Area Chair</strong>, IEEE International Conference on
-              Image Processing (ICIP) 2019-2025
+              <strong>Area Chair</strong>, International Conference on Learning Representations (ICLR) 2026
             </li>
             <li>
-              <strong>Area Chair</strong>, IEEE International Conference on
-              Multimedia & Expo (ICME) 2021-2025
+              <strong>Area Chair</strong>, ACM Multimedia Conference (MM) 2018-2025
             </li>
             <li>
-              <strong>Area Chair</strong>, International Conference on Pattern
-              Recognition (ICPR) 2012
+              <strong>Area Chair</strong>, IEEE International Conference on Image Processing (ICIP) 2019-2025
+            </li>
+            <li>
+              <strong>Area Chair</strong>, IEEE International Conference on Multimedia & Expo (ICME) 2021-2025
+            </li>
+            <li>
+              <strong>Area Chair</strong>, International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026
+            </li>
+            <li>
+              <strong>Area Chair</strong>, International Conference on Pattern Recognition (ICPR) 2012
             </li>
           </ul>
 
