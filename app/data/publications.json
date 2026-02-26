@@ -820,14 +820,6 @@
   },
   {
     "type": "Conference",
-    "title": "Perceptually improved super-resolution using multi-pass upscaling and qualitative score predictors",
-    "author": "J.-H. Choi, J.-H. Kim, M. Cheon, J.-S. Lee",
-    "year": "2018",
-    "booktitle": "European Conf. Computer Vision (ECCV), Workshop and Challenge on Perceptual Image Restoration and Manipulation (PIRM)",
-    "month": "Sep"
-  },
-  {
-    "type": "Conference",
     "title": "Aesthetic color templates for enhancing casual videos",
     "author": "J.-H. Choi, J.-S. Lee",
     "year": "2018",
