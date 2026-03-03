@@ -89,6 +89,20 @@ export const members: Member[] = [
     website: "https://kjungwoo03.github.io",
   },
   {
+    name: "Myungjae Kim",
+    role: "Ph.D. Student",
+    image: "/members/myungjae_kim.jpeg",
+    interests: ["Computer Vision", "Physical AI"],
+    email: "myungjae31@yonsei.ac.kr",
+  },
+  {
+    name: "Hoseong Tae",
+    role: "Ph.D. Student",
+    image: "/members/hoseong_tae.jpeg",
+    interests: ["Generative Model", "Physical AI"],
+    email: "hoseong1028@yonsei.ac.kr",
+  },
+  {
     name: "Hayeon Jeong",
     role: "M.S. Student",
     image: "/members/hayeon_jeong.jpeg",
@@ -101,6 +115,13 @@ export const members: Member[] = [
     image: "/members/junseok_ko.jpeg",
     interests: ["Diffusion Models", "Flow Matching Models"],
     email: "junseok@yonsei.ac.kr",
+  },
+  {
+    name: "Eungyeol Han",
+    role: "M.S. Student",
+    image: "/members/eungyul_han.jpeg",
+    interests: ["Diffusion Models"],
+    email: "condense@yonsei.ac.kr",
   },
 ] as const;
 
