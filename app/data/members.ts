@@ -98,7 +98,7 @@ export const members: Member[] = [
   {
     name: "Hoseong Tae",
     role: "Ph.D. Student",
-    image: "/members/hoseong_tae.jpeg",
+    image: "/members/hoseong_tae.png",
     interests: ["Generative Model", "Physical AI"],
     email: "hoseong1028@yonsei.ac.kr",
   },
@@ -119,7 +119,7 @@ export const members: Member[] = [
   {
     name: "Eungyeol Han",
     role: "M.S. Student",
-    image: "/members/eungyul_han.jpeg",
+    image: "/members/eungyeol_han.jpeg",
     interests: ["Diffusion Models"],
     email: "condense@yonsei.ac.kr",
   },
