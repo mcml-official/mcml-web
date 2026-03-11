@@ -24,7 +24,14 @@ export default function Publications() {
 
   const publications: Publication[] = mcml_publications;
 
-  const groupedPublications = publications.reduce(
+  const preprints = publications.filter((pub) =>
+    ["arxiv", "preprint"].includes(pub.year.toLowerCase()),
+  );
+  const regularPublications = publications.filter(
+    (pub) => !["arxiv", "preprint"].includes(pub.year.toLowerCase()),
+  );
+
+  const groupedPublications = regularPublications.reduce(
     (acc, pub) => {
       const year = pub.year;
       const type = pub.type;
@@ -50,6 +57,75 @@ export default function Publications() {
   return (
     <main className="mx-auto flex max-w-6xl flex-col justify-center gap-8 px-4 py-12 lg:flex-row">
       <div className="flex flex-col gap-8">
+        {preprints.length > 0 && (
+          <div className="mb-8">
+            <h2 className="mb-4 text-2xl font-bold">Preprints</h2>
+            <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+              {preprints.map((pub, index) => (
+                <div key={index}>
+                  <p className="font-medium">{pub.title}</p>
+                  <p className="text-gray-600 dark:text-gray-400">
+                    {pub.author}
+                  </p>
+                  <p className="text-gray-600 dark:text-gray-400">
+                    {pub.arxiv
+                      ? `arXiv:${pub.arxiv.split("/abs/").pop()}`
+                      : (pub.journal || pub.booktitle)}
+                    {pub.volume && `, ${pub.volume}`}
+                    {pub.pages && `, pp. ${pub.pages}`}
+                  </p>
+                  <div className="mt-1 flex gap-1">
+                    {pub.doi && (
+                      <a
+                        href={pub.doi}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="no-underline"
+                      >
+                        <Badge
+                          variant="secondary"
+                          className="hover:bg-secondary/80"
+                        >
+                          DOI
+                        </Badge>
+                      </a>
+                    )}
+                    {pub.arxiv && (
+                      <a
+                        href={pub.arxiv}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="no-underline"
+                      >
+                        <Badge
+                          variant="secondary"
+                          className="hover:bg-secondary/80"
+                        >
+                          arXiv
+                        </Badge>
+                      </a>
+                    )}
+                    {pub.code && (
+                      <a
+                        href={pub.code}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="no-underline"
+                      >
+                        <Badge
+                          variant="secondary"
+                          className="hover:bg-secondary/80"
+                        >
+                          Code
+                        </Badge>
+                      </a>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
         {sortedYears.map((year) => (
           <div key={year} className="mb-8">
             <div className="relative -top-20" id={year} />
