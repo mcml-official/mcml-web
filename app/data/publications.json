@@ -7,6 +7,12 @@
   },
   {
     "type": "Conference",
+    "year": "arxiv",
+    "title": "Dominant vs. dominated: Generative collapse in diffusion models",
+    "author": "H. Jeong, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
     "title": "Training-free framework for defending unsafe image synthesis attack",
     "author": "J. Park, J. Hwang, I. Ryu, H. Park, J. Kim, J.-S. Lee",
     "year": "2026",
