@@ -20,7 +20,7 @@
   {
     "type": "Conference",
     "year": "arxiv",
-    "title": SLIM: Semantic-based low-bitrate image compression for machines by leveraging diffusion",
+    "title": "SLIM: Semantic-based low-bitrate image compression for machines by leveraging diffusion",
     "author": "H. Lee, J.-H. Kim, J.-S. Lee"
   },
   {
@@ -38,7 +38,7 @@
   {
     "type": "Conference",
     "year": "arxiv",
-    "title": Impact of regularization on calibration and robustness: from the representation space perspective",
+    "title": "Impact of regularization on calibration and robustness: from the representation space perspective",
     "author": "J. Park, J. Kim, J.-S. Lee"
   },
   {
