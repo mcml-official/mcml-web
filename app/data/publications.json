@@ -2,6 +2,12 @@
   {
     "type": "Conference",
     "year": "arxiv",
+    "title": "Steering away from memorization: Reachability-constrained reinforcement learning for text-to-image diffusion",
+    "author": "S. Karnik, J. Kim, S. Koyejo, J.-S. Lee, S. Bansal"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
     "title": "DESSERT: Diffusion-based event-driven scene synthesis via residual training",
     "author": "J. Kong, J.-H. Kim, J.-S. Lee"
   },
@@ -10,6 +16,36 @@
     "year": "arxiv",
     "title": "Dominant vs. dominated: Generative collapse in diffusion models",
     "author": "H. Jeong, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
+    "title": SLIM: Semantic-based low-bitrate image compression for machines by leveraging diffusion",
+    "author": "H. Lee, J.-H. Kim, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
+    "title": "Progressive learned image compression for machine perception",
+    "author": "J. Kim, J.-H. Kim, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
+    "title": "How diffusion models memorize",
+    "author": "J. Kim, S. Kim, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
+    "title": Impact of regularization on calibration and robustness: from the representation space perspective",
+    "author": "J. Park, J. Kim, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
+    "title": "Adaptive explicit knowledge transfer for knowledge distillation",
+    "author": "H. Park, J.-S. Lee"
   },
   {
     "type": "Conference",
