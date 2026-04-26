@@ -53,7 +53,8 @@
     "author": "J. Park, J. Hwang, I. Ryu, H. Park, J. Kim, J.-S. Lee",
     "year": "2026",
     "month": "May",
-    "booktitle": "IEEE Int. Conf. Acoustics, Speech, Signal Processing (ICASSP)"
+    "booktitle": "IEEE Int. Conf. Acoustics, Speech, Signal Processing (ICASSP)",
+    "doi": "https://doi.org/10.1109/SMC58881.2025.11342657"
   },
   {
     "type": "Conference",
