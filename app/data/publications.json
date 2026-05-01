@@ -49,6 +49,22 @@
   },
   {
     "type": "Conference",
+    "title": "Beyond detection: Analyzing and classifying global and local memorization in diffusion models",
+    "author": "J. Kim, J. Park, J. Hwang, J.-S. Lee"
+    "year": "2026",
+    "month": "Sep",
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)"
+  }
+  {
+    "type": "Conference",
+    "title": "Coarse-to-fine: Progressive image compression for semantically hierarchical classification",
+    "author": "J. Kim, J.-H. Kim, J.-S. Lee"
+    "year": "2026",
+    "month": "Sep",
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)"
+  }
+  {
+    "type": "Conference",
     "title": "Training-free framework for defending unsafe image synthesis attack",
     "author": "J. Park, J. Hwang, I. Ryu, H. Park, J. Kim, J.-S. Lee",
     "year": "2026",
