@@ -54,7 +54,7 @@
     "year": "2026",
     "month": "Sep",
     "booktitle": "IEEE Int. Conf. Image Processing (ICIP)"
-  }
+  },
   {
     "type": "Conference",
     "title": "Coarse-to-fine: Progressive image compression for semantically hierarchical classification",
@@ -62,7 +62,7 @@
     "year": "2026",
     "month": "Sep",
     "booktitle": "IEEE Int. Conf. Image Processing (ICIP)"
-  }
+  },
   {
     "type": "Conference",
     "title": "Training-free framework for defending unsafe image synthesis attack",
