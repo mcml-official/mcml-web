@@ -84,7 +84,7 @@ export const members: Member[] = [
     name: "Jungwoo Kim",
     role: "Ph.D. Student",
     image: "/members/jungwoo_kim.jpeg",
-    interests: ["Machine Learning", "Generative Models"],
+    interests: ["Machine Learning", "Diffusion Models"],
     email: "kjungwoo@yonsei.ac.kr",
     website: "https://kjungwoo03.github.io",
   },
