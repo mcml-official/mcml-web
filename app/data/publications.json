@@ -37,14 +37,6 @@
   },
   {
     "type": "Conference",
-    "year": "2026",
-    "title": "Progressive learned image compression for machine perception",
-    "author": "J. Kim, J.-H. Kim, J.-S. Lee",
-    "month": "Sep",
-    "booktitle": "European Conf. Computer Vision (ECCV) Workshops"
-  },
-  {
-    "type": "Conference",
     "year": "arxiv",
     "title": "How diffusion models memorize",
     "author": "J. Kim, S. Kim, J.-S. Lee"
@@ -60,6 +52,14 @@
     "year": "arxiv",
     "title": "Adaptive explicit knowledge transfer for knowledge distillation",
     "author": "H. Park, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "2026",
+    "title": "Progressive learned image compression for machine perception",
+    "author": "J. Kim, J.-H. Kim, J.-S. Lee",
+    "month": "Sep",
+    "booktitle": "European Conf. Computer Vision (ECCV) Workshops"
   },
   {
     "type": "Conference",
