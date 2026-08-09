@@ -37,9 +37,11 @@
   },
   {
     "type": "Conference",
-    "year": "arxiv",
+    "year": "2026",
     "title": "Progressive learned image compression for machine perception",
-    "author": "J. Kim, J.-H. Kim, J.-S. Lee"
+    "author": "J. Kim, J.-H. Kim, J.-S. Lee",
+    "month": "Sep",
+    "booktitle": "European Conf. Computer Vision (ECCV) Workshops"
   },
   {
     "type": "Conference",
