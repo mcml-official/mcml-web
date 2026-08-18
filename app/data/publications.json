@@ -67,7 +67,8 @@
     "author": "J. Kim, J. Park, J. Hwang, J.-S. Lee",
     "year": "2026",
     "month": "Sep",
-    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)"
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)",
+    "doi": "https://doi.org/10.1109/ICIP61757.2026.11630499"
   },
   {
     "type": "Conference",
@@ -75,7 +76,8 @@
     "author": "J. Kim, J.-H. Kim, J.-S. Lee",
     "year": "2026",
     "month": "Sep",
-    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)"
+    "booktitle": "IEEE Int. Conf. Image Processing (ICIP)",
+    "doi": "https://doi.org/10.1109/ICIP61757.2026.11630489"    
   },
   {
     "type": "Conference",
