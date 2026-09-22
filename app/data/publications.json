@@ -16,13 +16,6 @@
   {
     "type": "Conference",
     "year": "arxiv",
-    "title": "SLIM: Semantic-based low-bitrate image compression for machines by leveraging diffusion",
-    "author": "H. Lee, J.-H. Kim, J.-S. Lee",
-    "arxiv": "https://arxiv.org/abs/2512.18200"
-  },
-  {
-    "type": "Conference",
-    "year": "arxiv",
     "title": "How diffusion models memorize",
     "author": "J. Kim, S. Kim, J.-S. Lee",
     "arxiv": "https://arxiv.org/abs/2509.25705"
@@ -68,6 +61,15 @@
     "title": "Event-based scene synthesis via inter-frame residual alignment",
     "author": "J. Kong, J.-H. Kim, J.-S. Lee",
     "arxiv": "https://arxiv.org/abs/2512.17323"
+  },
+  {
+    "type": "Conference",
+    "year": "2026",
+    "month": "Dec",
+    "booktitle": "Asian Conf. Computer Vision (ACCV)",
+    "title": "SLIM: Semantic-based low-bitrate image compression for machines",
+    "author": "H. Lee, J.-H. Kim, J.-S. Lee",
+    "arxiv": "https://arxiv.org/abs/2512.18200"
   },
   {
     "type": "Conference",
