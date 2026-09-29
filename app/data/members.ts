@@ -68,7 +68,7 @@ export const members: Member[] = [
   },
   {
     name: "Jiyoon Kim",
-    role: "M.S. Student",
+    role: "Ph.D. Student",
     image: "/members/jiyoon_kim.jpeg",
     interests: ["Memorization in Diffusion Models", "Image Editing"],
     email: "ji-yoon.kim@yonsei.ac.kr",
