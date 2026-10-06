@@ -2,6 +2,18 @@
   {
     "type": "Conference",
     "year": "arxiv",
+    "title": "Beyond transport cost: Routing differences between flow matching and optimal transport",
+    "author": ""
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
+    "title": "Safe image generation via reinforcement learning",
+    "author": ""
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
     "title": "Neural audio codec for robust audio deepfake detection", 
     "author": "J. Kim, J. Park, J. Koh, J.-S. Lee"
   },
