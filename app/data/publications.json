@@ -14,6 +14,12 @@
   {
     "type": "Conference",
     "year": "arxiv",
+    "title": "Event-guided neural video compression",
+    "author": "J. Kong, J. Kim, E. E. Demirtas, T. Ebrahimi, J.-S. Lee"
+  },
+  {
+    "type": "Conference",
+    "year": "arxiv",
     "title": "Neural audio codec for robust audio deepfake detection", 
     "author": "J. Kim, J. Park, J. Koh, J.-S. Lee"
   },
