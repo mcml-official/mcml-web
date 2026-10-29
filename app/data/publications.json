@@ -80,7 +80,7 @@
     "type": "Conference",
     "year": "2026",
     "month": "Dec",
-    "booktitle": "Asian Conf. Computer Vision (ACCV)",
+    "booktitle": "Asian Conf. Computer Vision (ACCV) (oral)",
     "title": "Dominating vs. dominated: Concept-level generative collapse in diffusion models",
     "author": "H. Jeong, J.-S. Lee",
     "arxiv": "https://arxiv.org/abs/2512.20666"
@@ -689,7 +689,7 @@
     "title": "Instability of successive deep image compression",
     "author": "J.-H. Kim, S. Jang, J.-H. Choi, J.-S. Lee",
     "year": "2020",
-    "booktitle": "ACM Multimedia (MM)",
+    "booktitle": "ACM Multimedia (MM) (oral)",
     "month": "Oct",
     "doi": "https://doi.org/10.1145/3394171.3413680",
     "video": "https://www.youtube.com/watch?v=Jbdwp-cTZ9Q"
