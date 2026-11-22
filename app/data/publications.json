@@ -58,6 +58,14 @@
     "arxiv": "https://arxiv.org/abs/2409.01679"
   },
   {
+    "type": "Conference",
+    "year": "2027",
+    "month": "Apr",
+    "booktitle": "ACM/SIGAPP Symposium on Applied Computing (SAC)",
+    "title": "Motor imagery classification using hybrid cross-subject class mixup and selective attention",
+    "author": "J. Kim, C.-W. Kim, J.-S. Lee"
+  },
+  {
     "type": "Conference",    
     "year": "2027",
     "month": "Jan",
