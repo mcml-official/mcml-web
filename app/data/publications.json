@@ -52,9 +52,11 @@
   },
   {
     "type": "Conference",
-    "year": "arxiv",
+    "year": "2027",
+    "booktitle": "ACM/SIGAPP Symposium on Applied Computing (SAC)",
+    "month": "Apr",
     "title": "Adaptive explicit knowledge transfer for knowledge distillation",
-    "author": "H. Park, J.-S. Lee",
+    "author": "H. Park, J. Kim, J.-S. Lee",
     "arxiv": "https://arxiv.org/abs/2409.01679"
   },
   {
